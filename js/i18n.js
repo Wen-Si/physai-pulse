@@ -8,6 +8,8 @@ const I18N = {
         // Header
         logoSub: '全球物理AI企业实时资讯',
         live: '实时',
+        rpaUpdated: 'RPA已更新',
+        rpaCollecting: 'RPA采集中',
 
         // Stats
         statCompanies: '追踪企业',
@@ -116,6 +118,8 @@ const I18N = {
         // Header
         logoSub: 'Real-Time Global Physical AI Intelligence',
         live: 'LIVE',
+        rpaUpdated: 'RPA Updated',
+        rpaCollecting: 'RPA Collecting',
 
         // Stats
         statCompanies: 'Companies',

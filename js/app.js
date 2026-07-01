@@ -281,6 +281,7 @@ async function generateAll() {
         dataStore.financing = data.financing || [];
         dataStore.tech = data.tech || [];
         dataStore.voices = data.voices || [];
+        dataSource = 'ai';
         renderAll();
         showToast(t('toastSuccess'), 'success');
     } catch (error) {
@@ -336,7 +337,7 @@ function setupLanguageToggle() {
     toggle.addEventListener('click', () => {
         const newLang = getLang() === 'zh' ? 'en' : 'zh';
         applyTranslations(newLang);
-        renderAll();
+        reloadForLanguage();
     });
 }
 
@@ -376,6 +377,87 @@ function getInitials(name) {
 // ============================================
 // Initialize
 // ============================================
+
+// Track whether data source is RPA or AI
+let dataSource = 'fallback'; // 'rpa', 'ai', 'fallback'
+
+/**
+ * Load RPA-collected data first, fall back to AI generation
+ */
+async function loadInitialData() {
+    const lang = getLang();
+
+    // Step 1: Show fallback data immediately for instant display
+    Object.keys(MODULE_CONFIG).forEach(module => {
+        dataStore[module] = ZHIPU_API.getFallbackData(module, lang);
+    });
+    renderAll();
+
+    // Step 2: Try to load RPA-collected data
+    console.log('[Init] Attempting to load RPA data...');
+    const rpaData = await ZHIPU_API.loadRPAData(lang);
+
+    if (rpaData && (rpaData.dynamics.length > 0 || rpaData.financing.length > 0)) {
+        console.log('[Init] RPA data loaded successfully');
+        dataStore.dynamics = rpaData.dynamics;
+        dataStore.financing = rpaData.financing;
+        dataStore.tech = rpaData.tech;
+        dataStore.voices = rpaData.voices;
+        dataSource = 'rpa';
+        renderAll();
+        showRPABadge(rpaData.meta);
+        showToast(t('rpaUpdated'), 'success');
+        return;
+    }
+
+    // Step 3: RPA data not available, use AI generation
+    console.log('[Init] RPA data not available, generating via AI...');
+    await generateAll();
+}
+
+/**
+ * Show RPA badge with last update time
+ */
+function showRPABadge(meta) {
+    const badge = document.getElementById('rpaBadge');
+    const timeEl = document.getElementById('rpaTime');
+
+    if (badge && meta) {
+        badge.style.display = 'flex';
+        if (meta.last_updated) {
+            // Show shortened date/time
+            const dateStr = meta.last_updated.split(' ')[0];
+            timeEl.textContent = dateStr;
+        }
+    }
+}
+
+/**
+ * Reload data when language changes
+ */
+async function reloadForLanguage() {
+    const lang = getLang();
+
+    if (dataSource === 'rpa') {
+        // Reload RPA data for new language
+        const rpaData = await ZHIPU_API.loadRPAData(lang);
+        if (rpaData && (rpaData.dynamics.length > 0 || rpaData.financing.length > 0)) {
+            dataStore.dynamics = rpaData.dynamics;
+            dataStore.financing = rpaData.financing;
+            dataStore.tech = rpaData.tech;
+            dataStore.voices = rpaData.voices;
+            renderAll();
+            return;
+        }
+    }
+
+    // If RPA data not available for this language or using AI, reload fallback
+    Object.keys(MODULE_CONFIG).forEach(module => {
+        dataStore[module] = ZHIPU_API.getFallbackData(module, lang);
+    });
+    renderAll();
+}
+
 async function init() {
     // Apply default language
     applyTranslations('zh');
@@ -389,17 +471,8 @@ async function init() {
     setupLanguageToggle();
     setupRefreshButtons();
 
-    // Load initial data (fallback first for instant display, then try API)
-    const lang = getLang();
-    Object.keys(MODULE_CONFIG).forEach(module => {
-        dataStore[module] = ZHIPU_API.getFallbackData(module, lang);
-    });
-    renderAll();
-
-    // Auto-generate fresh content from API on load
-    setTimeout(() => {
-        generateAll();
-    }, 500);
+    // Load initial data (RPA first, then AI fallback)
+    await loadInitialData();
 }
 
 // Start when DOM is ready

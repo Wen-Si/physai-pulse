@@ -120,6 +120,45 @@ const ZHIPU_API = {
     },
 
     /**
+     * Load RPA-collected data from data/news_data.json
+     * RPA工具每天定时从全球新闻源采集，经智谱GLM-4.5-Flash处理后存储
+     * @param {string} lang - Language: zh or en
+     * @returns {Promise<Object|null>} - Object with all module data, or null if not available
+     */
+    async loadRPAData(lang) {
+        try {
+            // 添加时间戳参数避免缓存
+            const url = `data/news_data.json?_t=${Date.now()}`;
+            const response = await fetch(url, { cache: 'no-cache' });
+
+            if (!response.ok) {
+                console.log('[RPA] news_data.json not found, will use AI generation');
+                return null;
+            }
+
+            const data = await response.json();
+            const langData = data[lang];
+
+            if (!langData) {
+                console.warn(`[RPA] No ${lang} data in news_data.json`);
+                return null;
+            }
+
+            // 返回数据及元信息
+            return {
+                dynamics: langData.dynamics || [],
+                financing: langData.financing || [],
+                tech: langData.tech || [],
+                voices: langData.voices || [],
+                meta: data.meta || null
+            };
+        } catch (error) {
+            console.log('[RPA] Failed to load RPA data:', error.message);
+            return null;
+        }
+    },
+
+    /**
      * Parse API response into structured data
      * @param {string} content - Raw API response
      * @param {string} module - Module name

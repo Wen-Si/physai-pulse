@@ -1,0 +1,240 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="PhysicalAI Pulse - 全球物理AI企业实时资讯平台">
+    <title>PhysicalAI Pulse | 全球物理AI企业资讯平台</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@300;400;500;600;700&family=Outfit:wght@200;300;400;500;600;700;800&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🤖</text></svg>">
+</head>
+<body>
+    <!-- Grain Overlay -->
+    <div class="grain-overlay"></div>
+
+    <!-- Grid Background -->
+    <div class="grid-bg"></div>
+
+    <!-- Header -->
+    <header class="header">
+        <div class="header-inner">
+            <div class="logo-area">
+                <div class="logo-mark">
+                    <svg width="36" height="36" viewBox="0 0 36 36" fill="none">
+                        <rect x="6" y="8" width="24" height="20" rx="3" stroke="currentColor" stroke-width="2"/>
+                        <circle cx="13" cy="16" r="2" fill="currentColor"/>
+                        <circle cx="23" cy="16" r="2" fill="currentColor"/>
+                        <path d="M14 22h8" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+                        <path d="M18 4v4M12 4v4M24 4v4" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+                        <path d="M10 28v4M26 28v4" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+                    </svg>
+                </div>
+                <div class="logo-text">
+                    <h1 class="logo-title">PhysicalAI <span class="logo-accent">Pulse</span></h1>
+                    <p class="logo-sub" data-i18n="logoSub">全球物理AI企业实时资讯</p>
+                </div>
+            </div>
+
+            <div class="header-right">
+                <div class="live-indicator">
+                    <span class="live-dot"></span>
+                    <span data-i18n="live">实时</span>
+                </div>
+                <div class="clock" id="clock"></div>
+                <button class="lang-toggle" id="langToggle">
+                    <span class="lang-cn active">中</span>
+                    <span class="lang-divider">/</span>
+                    <span class="lang-en">EN</span>
+                </button>
+            </div>
+        </div>
+    </header>
+
+    <!-- Stats Bar -->
+    <section class="stats-bar">
+        <div class="stat-item">
+            <div class="stat-value" id="statCompanies">--</div>
+            <div class="stat-label" data-i18n="statCompanies">追踪企业</div>
+        </div>
+        <div class="stat-divider"></div>
+        <div class="stat-item">
+            <div class="stat-value" id="statFunding">--</div>
+            <div class="stat-label" data-i18n="statFunding">融资总额</div>
+        </div>
+        <div class="stat-divider"></div>
+        <div class="stat-item">
+            <div class="stat-value" id="statUpdates">--</div>
+            <div class="stat-label" data-i18n="statUpdates">今日更新</div>
+        </div>
+        <div class="stat-divider"></div>
+        <div class="stat-item">
+            <div class="stat-value" id="statSectors">--</div>
+            <div class="stat-label" data-i18n="statSectors">活跃领域</div>
+        </div>
+    </section>
+
+    <!-- Navigation -->
+    <nav class="module-nav">
+        <div class="nav-inner">
+            <button class="nav-tab active" data-module="all" data-i18n="navAll">全部</button>
+            <button class="nav-tab" data-module="dynamics" data-color="cyan">
+                <span class="tab-dot" style="background:#00e5ff"></span>
+                <span data-i18n="navDynamics">企业动态</span>
+            </button>
+            <button class="nav-tab" data-module="financing" data-color="green">
+                <span class="tab-dot" style="background:#00ff88"></span>
+                <span data-i18n="navFinancing">融资估值</span>
+            </button>
+            <button class="nav-tab" data-module="tech" data-color="orange">
+                <span class="tab-dot" style="background:#ff6b35"></span>
+                <span data-i18n="navTech">技术突破</span>
+            </button>
+            <button class="nav-tab" data-module="voices" data-color="purple">
+                <span class="tab-dot" style="background:#b388ff"></span>
+                <span data-i18n="navVoices">大佬言论</span>
+            </button>
+        </div>
+    </nav>
+
+    <!-- Main Content -->
+    <main class="main-content" id="mainContent">
+        <!-- Dynamics Module -->
+        <section class="module-section" id="moduleDynamics" data-module="dynamics">
+            <div class="module-header">
+                <div class="module-title-area">
+                    <span class="module-icon" style="--mc:#00e5ff">
+                        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                            <path d="M3 12h4l3-9 4 18 3-9h4"/>
+                        </svg>
+                    </span>
+                    <div>
+                        <h2 class="module-title" data-i18n="modDynamicsTitle">企业最新动态</h2>
+                        <p class="module-desc" data-i18n="modDynamicsDesc">全球物理AI企业最新产品发布、合作与战略动向</p>
+                    </div>
+                </div>
+                <button class="refresh-btn" data-module="dynamics">
+                    <svg class="refresh-icon" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <path d="M23 4v6h-6M1 20v-6h6"/>
+                        <path d="M3.51 9a9 9 0 0114.85-3.36L23 10M1 14l4.64 4.36A9 9 0 0020.49 15"/>
+                    </svg>
+                    <span data-i18n="refresh">AI生成</span>
+                </button>
+            </div>
+            <div class="card-grid" id="gridDynamics"></div>
+        </section>
+
+        <!-- Financing Module -->
+        <section class="module-section" id="moduleFinancing" data-module="financing">
+            <div class="module-header">
+                <div class="module-title-area">
+                    <span class="module-icon" style="--mc:#00ff88">
+                        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                            <line x1="12" y1="1" x2="12" y2="23"/>
+                            <path d="M17 5H9.5a3.5 3.5 0 000 7h5a3.5 3.5 0 010 7H6"/>
+                        </svg>
+                    </span>
+                    <div>
+                        <h2 class="module-title" data-i18n="modFinancingTitle">融资与估值</h2>
+                        <p class="module-desc" data-i18n="modFinancingDesc">物理AI领域最新融资轮次、估值变动与投资动向</p>
+                    </div>
+                </div>
+                <button class="refresh-btn" data-module="financing">
+                    <svg class="refresh-icon" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <path d="M23 4v6h-6M1 20v-6h6"/>
+                        <path d="M3.51 9a9 9 0 0114.85-3.36L23 10M1 14l4.64 4.36A9 9 0 0020.49 15"/>
+                    </svg>
+                    <span data-i18n="refresh">AI生成</span>
+                </button>
+            </div>
+            <div class="card-grid" id="gridFinancing"></div>
+        </section>
+
+        <!-- Tech Breakthroughs Module -->
+        <section class="module-section" id="moduleTech" data-module="tech">
+            <div class="module-header">
+                <div class="module-title-area">
+                    <span class="module-icon" style="--mc:#ff6b35">
+                        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                            <polygon points="13 2 3 14 12 14 11 22 21 10 12 10 13 2"/>
+                        </svg>
+                    </span>
+                    <div>
+                        <h2 class="module-title" data-i18n="modTechTitle">物理AI技术突破</h2>
+                        <p class="module-desc" data-i18n="modTechDesc">具身智能、机器人学习、感知与控制等前沿技术进展</p>
+                    </div>
+                </div>
+                <button class="refresh-btn" data-module="tech">
+                    <svg class="refresh-icon" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <path d="M23 4v6h-6M1 20v-6h6"/>
+                        <path d="M3.51 9a9 9 0 0114.85-3.36L23 10M1 14l4.64 4.36A9 9 0 0020.49 15"/>
+                    </svg>
+                    <span data-i18n="refresh">AI生成</span>
+                </button>
+            </div>
+            <div class="card-grid" id="gridTech"></div>
+        </section>
+
+        <!-- Voices Module -->
+        <section class="module-section" id="moduleVoices" data-module="voices">
+            <div class="module-header">
+                <div class="module-title-area">
+                    <span class="module-icon" style="--mc:#b388ff">
+                        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                            <path d="M3 11l18-5v12L3 14v-3z"/>
+                            <path d="M11.6 16.8a3 3 0 11-5.8-1.6"/>
+                        </svg>
+                    </span>
+                    <div>
+                        <h2 class="module-title" data-i18n="modVoicesTitle">科技界大佬言论</h2>
+                        <p class="module-desc" data-i18n="modVoicesDesc">全球科技领袖对物理AI与具身智能的最新观点与洞察</p>
+                    </div>
+                </div>
+                <button class="refresh-btn" data-module="voices">
+                    <svg class="refresh-icon" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <path d="M23 4v6h-6M1 20v-6h6"/>
+                        <path d="M3.51 9a9 9 0 0114.85-3.36L23 10M1 14l4.64 4.36A9 9 0 0020.49 15"/>
+                    </svg>
+                    <span data-i18n="refresh">AI生成</span>
+                </button>
+            </div>
+            <div class="card-grid" id="gridVoices"></div>
+        </section>
+    </main>
+
+    <!-- Loading Overlay -->
+    <div class="loading-overlay" id="loadingOverlay">
+        <div class="loading-box">
+            <div class="loading-robot">
+                <div class="robot-eye left"></div>
+                <div class="robot-eye right"></div>
+            </div>
+            <p class="loading-text" data-i18n="loading">AI正在生成最新资讯...</p>
+            <div class="loading-bar"><div class="loading-bar-fill"></div></div>
+        </div>
+    </div>
+
+    <!-- Toast -->
+    <div class="toast" id="toast"></div>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="footer-inner">
+            <div class="footer-left">
+                <p class="footer-brand">PhysicalAI Pulse</p>
+                <p class="footer-desc" data-i18n="footerDesc">全球物理AI企业实时资讯平台 · 由智谱GLM-4.5-Flash驱动</p>
+            </div>
+            <div class="footer-right">
+                <p class="footer-tech">Powered by <span class="footer-glm">GLM-4.5-Flash</span></p>
+                <p class="footer-copy">© 2026 PhysicalAI Pulse</p>
+            </div>
+        </div>
+    </footer>
+
+    <script src="js/i18n.js"></script>
+    <script src="js/api.js"></script>
+    <script src="js/app.js"></script>
+</body>
+</html>

@@ -1,8 +1,8 @@
 {
   "meta": {
-    "last_updated": "2026-07-28 01:29:27",
-    "last_updated_utc": "2026-07-28 01:29:27 UTC",
-    "total_sources_collected": 650,
+    "last_updated": "2026-07-29 01:31:14",
+    "last_updated_utc": "2026-07-29 01:31:14 UTC",
+    "total_sources_collected": 663,
     "collector": "RPA Global News Collector v1.0",
     "ai_model": "Zhipu GLM-4.5-Flash"
   },
@@ -12,35 +12,35 @@
         "company": "Figure AI",
         "title": "Figure 03人形机器人实现工厂量产部署",
         "summary": "Figure AI宣布其第三代人形机器人Figure 03已在宝马工厂完成首批部署，实现产线物料搬运与质量检测自动化任务。",
-        "date": "2026-07-28",
+        "date": "2026-07-29",
         "tag": "产品发布"
       },
       {
         "company": "Tesla",
         "title": "Optimus机器人在工厂内实现自主导航与操作",
         "summary": "特斯拉展示了Optimus机器人在超级工厂内自主导航、搬运电池组并执行精密组装任务的最新视频。",
-        "date": "2026-07-28",
+        "date": "2026-07-29",
         "tag": "产品发布"
       },
       {
         "company": "Unitree",
         "title": "宇树科技发布G1 Pro消费级人形机器人",
         "summary": "宇树科技推出G1 Pro人形机器人，配备灵巧手和AI视觉系统，瞄准教育与服务市场。",
-        "date": "2026-07-28",
+        "date": "2026-07-29",
         "tag": "产品发布"
       },
       {
         "company": "Boston Dynamics",
         "title": "Atlas电驱版完成工厂测试并与丰田达成合作",
         "summary": "波士顿动力全新电动版Atlas机器人在丰田工厂完成测试，双方签署战略合作协议。",
-        "date": "2026-07-28",
+        "date": "2026-07-29",
         "tag": "战略合作"
       },
       {
         "company": "Agility Robotics",
         "title": "Digit机器人在亚马逊仓库完成百万次拣选",
         "summary": "Agility Robotics的Digit双足机器人在亚马逊物流中心累计完成超过100万次商品拣选任务。",
-        "date": "2026-07-28",
+        "date": "2026-07-29",
         "tag": "市场扩张"
       }
     ],
@@ -52,7 +52,7 @@
         "valuation": "26亿美元",
         "investors": "微软、OpenAI、NVIDIA、贝佐斯",
         "summary": "Figure AI完成6.75亿美元B轮融资，估值达26亿美元。",
-        "date": "2026-07-28"
+        "date": "2026-07-29"
       },
       {
         "company": "Skild AI",
@@ -61,7 +61,7 @@
         "valuation": "10亿美元",
         "investors": "Lightspeed、Coatue、亚马逊",
         "summary": "Skild AI完成A轮融资，跻身独角兽行列。",
-        "date": "2026-07-28"
+        "date": "2026-07-29"
       },
       {
         "company": "Physical Intelligence",
@@ -70,7 +70,7 @@
         "valuation": "4亿美元",
         "investors": "Khosla Ventures、Lux Capital",
         "summary": "Physical Intelligence完成7000万美元种子轮融资。",
-        "date": "2026-07-28"
+        "date": "2026-07-29"
       },
       {
         "company": "1X Technologies",
@@ -79,7 +79,7 @@
         "valuation": "10亿美元",
         "investors": "OpenAI、EQT Ventures",
         "summary": "1X Technologies完成B轮融资，推进NEO家庭机器人研发。",
-        "date": "2026-07-28"
+        "date": "2026-07-29"
       },
       {
         "company": "Apptronik",
@@ -88,7 +88,7 @@
         "valuation": "16亿美元",
         "investors": "B Capital、Google Ventures",
         "summary": "Apptronik完成A轮融资，加速Apollo机器人商业化。",
-        "date": "2026-07-28"
+        "date": "2026-07-29"
       }
     ],
     "tech": [
@@ -97,35 +97,35 @@
         "summary": "NVIDIA推出Project GR00T，专为人形机器人设计的通用基础模型。",
         "company": "NVIDIA",
         "significance": "首个面向人形机器人的通用基础模型",
-        "date": "2026-07-28"
+        "date": "2026-07-29"
       },
       {
         "title": "Figure AI展示端到端视觉-语言-动作模型",
         "summary": "Figure AI展示了其自研的VLA模型，可直接从摄像头输入生成关节控制指令。",
         "company": "Figure AI",
         "significance": "端到端学习突破，简化机器人控制流水线",
-        "date": "2026-07-28"
+        "date": "2026-07-29"
       },
       {
         "title": "Google DeepMind发布RT-2大规模机器人模型",
         "summary": "RT-2模型将视觉-语言模型与机器人控制结合，实现跨任务泛化能力。",
         "company": "Google DeepMind",
         "significance": "视觉-语言-动作统一架构",
-        "date": "2026-07-28"
+        "date": "2026-07-29"
       },
       {
         "title": "Stanford推出Mobile ALOHA低成本遥操作平台",
         "summary": "斯坦福发布Mobile ALOHA系统，以3.2万美元成本实现双臂移动操作。",
         "company": "Stanford University",
         "significance": "大幅降低具身智能研究成本",
-        "date": "2026-07-28"
+        "date": "2026-07-29"
       },
       {
         "title": "波士顿动力Atlas实现全身动态平衡控制突破",
         "summary": "新版电动Atlas采用强化学习训练的全身控制器，可在不规则地形上跑步跳跃。",
         "company": "Boston Dynamics",
         "significance": "强化学习在人形机器人全身控制中的里程碑应用",
-        "date": "2026-07-28"
+        "date": "2026-07-29"
       }
     ],
     "voices": [
@@ -134,35 +134,35 @@
         "title": "CEO, Tesla",
         "quote": "人形机器人将是有史以来最大的产品，远超汽车业务。",
         "context": "在特斯拉股东大会上讨论Optimus机器人战略",
-        "date": "2026-07-28"
+        "date": "2026-07-29"
       },
       {
         "name": "Jensen Huang",
         "title": "CEO, NVIDIA",
         "quote": "物理AI的ChatGPT时刻即将到来。我们正在构建从芯片到模型的全栈基础设施。",
         "context": "在GTC 2026主题演讲中发布Project GR00T",
-        "date": "2026-07-28"
+        "date": "2026-07-29"
       },
       {
         "name": "Brett Adcock",
         "title": "CEO, Figure AI",
         "quote": "我们的目标是在未来十年内将数十亿台人形机器人部署到全球工厂和家庭中。",
         "context": "在Figure AI B轮融资发布会上",
-        "date": "2026-07-28"
+        "date": "2026-07-29"
       },
       {
         "name": "Sam Altman",
         "title": "CEO, OpenAI",
         "quote": "物理AI是AGI的最后一块拼图。当智能能够操控物理世界时，我们将真正看到AGI的完整形态。",
         "context": "在达沃斯世界经济论坛讨论AI未来",
-        "date": "2026-07-28"
+        "date": "2026-07-29"
       },
       {
         "name": "Demis Hassabis",
         "title": "CEO, Google DeepMind",
         "quote": "具身智能是通向AGI的关键路径之一。机器人需要在真实世界中学习才能获得真正的常识理解能力。",
         "context": "在DeepMind robotics研讨会上",
-        "date": "2026-07-28"
+        "date": "2026-07-29"
       }
     ]
   },
@@ -172,35 +172,35 @@
         "company": "Figure AI",
         "title": "Figure 03 Humanoid Robot Deployed in Factory Mass Production",
         "summary": "Figure AI announced its Figure 03 humanoid robot has been deployed in BMW factories, performing material handling and quality inspection tasks.",
-        "date": "2026-07-28",
+        "date": "2026-07-29",
         "tag": "Product Launch"
       },
       {
         "company": "Tesla",
         "title": "Optimus Robot Achieves Autonomous Navigation in Factory",
         "summary": "Tesla showcased Optimus robots autonomously navigating and performing precision assembly in the Gigafactory.",
-        "date": "2026-07-28",
+        "date": "2026-07-29",
         "tag": "Product Launch"
       },
       {
         "company": "Unitree",
         "title": "Unitree Releases G1 Pro Consumer Humanoid Robot",
         "summary": "Unitree launched the G1 Pro humanoid robot with dexterous hands and AI vision system.",
-        "date": "2026-07-28",
+        "date": "2026-07-29",
         "tag": "Product Launch"
       },
       {
         "company": "Boston Dynamics",
         "title": "Electric Atlas Completes Factory Testing, Partners with Toyota",
         "summary": "Boston Dynamics' new electric Atlas completed testing at Toyota factories. Strategic partnership signed.",
-        "date": "2026-07-28",
+        "date": "2026-07-29",
         "tag": "Partnership"
       },
       {
         "company": "Agility Robotics",
         "title": "Digit Robot Completes One Million Picks at Amazon",
         "summary": "Agility Robotics' Digit robot completed over 1 million product picks at Amazon fulfillment centers.",
-        "date": "2026-07-28",
+        "date": "2026-07-29",
         "tag": "Market Expansion"
       }
     ],
@@ -212,7 +212,7 @@
         "valuation": "$2.6B",
         "investors": "Microsoft, OpenAI, NVIDIA, Bezos",
         "summary": "Figure AI completed $675M Series B at $2.6B valuation.",
-        "date": "2026-07-28"
+        "date": "2026-07-29"
       },
       {
         "company": "Skild AI",
@@ -221,7 +221,7 @@
         "valuation": "$1B",
         "investors": "Lightspeed, Coatue, Amazon",
         "summary": "Skild AI completed Series A, reaching unicorn status.",
-        "date": "2026-07-28"
+        "date": "2026-07-29"
       },
       {
         "company": "Physical Intelligence",
@@ -230,7 +230,7 @@
         "valuation": "$400M",
         "investors": "Khosla Ventures, Lux Capital",
         "summary": "Physical Intelligence completed $70M seed funding.",
-        "date": "2026-07-28"
+        "date": "2026-07-29"
       },
       {
         "company": "1X Technologies",
@@ -239,7 +239,7 @@
         "valuation": "$1B",
         "investors": "OpenAI, EQT Ventures",
         "summary": "1X Technologies completed Series B to advance NEO robot.",
-        "date": "2026-07-28"
+        "date": "2026-07-29"
       },
       {
         "company": "Apptronik",
@@ -248,7 +248,7 @@
         "valuation": "$1.6B",
         "investors": "B Capital, Google Ventures",
         "summary": "Apptronik completed Series A to accelerate Apollo robot deployment.",
-        "date": "2026-07-28"
+        "date": "2026-07-29"
       }
     ],
     "tech": [
@@ -257,35 +257,35 @@
         "summary": "NVIDIA launched Project GR00T, a general foundation model designed for humanoid robots.",
         "company": "NVIDIA",
         "significance": "First general foundation model for humanoid robots",
-        "date": "2026-07-28"
+        "date": "2026-07-29"
       },
       {
         "title": "Figure AI Demonstrates End-to-End Vision-Language-Action Model",
         "summary": "Figure AI demonstrated its VLA model generating joint control commands directly from camera input.",
         "company": "Figure AI",
         "significance": "End-to-end learning breakthrough",
-        "date": "2026-07-28"
+        "date": "2026-07-29"
       },
       {
         "title": "Google DeepMind Releases RT-2 Large-Scale Robot Model",
         "summary": "RT-2 combines vision-language models with robot control for cross-task generalization.",
         "company": "Google DeepMind",
         "significance": "Unified vision-language-action architecture",
-        "date": "2026-07-28"
+        "date": "2026-07-29"
       },
       {
         "title": "Stanford Releases Mobile ALOHA Low-Cost Teleoperation Platform",
         "summary": "Stanford released Mobile ALOHA at $32K cost for dual-arm mobile manipulation.",
         "company": "Stanford University",
         "significance": "Dramatically reducing embodied intelligence research costs",
-        "date": "2026-07-28"
+        "date": "2026-07-29"
       },
       {
         "title": "Boston Dynamics Atlas Achieves Full-Body Dynamic Balance Control",
         "summary": "New electric Atlas uses RL-trained whole-body controller for running and jumping on uneven terrain.",
         "company": "Boston Dynamics",
         "significance": "Milestone in RL application for humanoid control",
-        "date": "2026-07-28"
+        "date": "2026-07-29"
       }
     ],
     "voices": [
@@ -294,45 +294,45 @@
         "title": "CEO, Tesla",
         "quote": "Humanoid robots will be the biggest product ever, far exceeding the car business.",
         "context": "Discussing Optimus at Tesla shareholder meeting",
-        "date": "2026-07-28"
+        "date": "2026-07-29"
       },
       {
         "name": "Jensen Huang",
         "title": "CEO, NVIDIA",
         "quote": "The ChatGPT moment for Physical AI is coming. We are building full-stack infrastructure.",
         "context": "Launching Project GR00T at GTC 2026 keynote",
-        "date": "2026-07-28"
+        "date": "2026-07-29"
       },
       {
         "name": "Brett Adcock",
         "title": "CEO, Figure AI",
         "quote": "Our goal is to deploy billions of humanoid robots in factories and homes worldwide.",
         "context": "At Figure AI Series B funding announcement",
-        "date": "2026-07-28"
+        "date": "2026-07-29"
       },
       {
         "name": "Sam Altman",
         "title": "CEO, OpenAI",
         "quote": "Physical AI is the last piece of the AGI puzzle.",
         "context": "Discussing AI future at Davos World Economic Forum",
-        "date": "2026-07-28"
+        "date": "2026-07-29"
       },
       {
         "name": "Demis Hassabis",
         "title": "CEO, Google DeepMind",
         "quote": "Embodied intelligence is one of the key paths to AGI.",
         "context": "At DeepMind robotics symposium",
-        "date": "2026-07-28"
+        "date": "2026-07-29"
       }
     ]
   },
   "raw_articles": [
     {
-      "title": "Hyundai’s Humanoid Plan Illustrates Confusion On Physical AI - Forbes",
-      "summary": "Hyundai’s Humanoid Plan Illustrates Confusion On Physical AIForbes",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbk9KeGNLQWhGM2dMbWExVzVIS2hBSWdOUmNLLWtuZnVJTnI4YmRIZHEwaTIzVDhKR0VKOTF0N0RXSnVMdV8yZGV3Ri1PUzd1aVM4WFNDRHIwUVZrOGNIa2ZxV1VzS1R3LXRMWjdRbFBLcHJfVEVJN2cxR2pVXzh3QjFBUFRHQzMyWTFfaEk0R2FvQnNRNEl0TklDQXdFdndDaXNvOTJvOUVMdXB5YXZBTg?oc=5",
-      "date": "2026-07-27",
-      "source": "Forbes",
+      "title": "Cellular Neural Networks Key to Monetising the Humanoid Workplace - Pipeline Magazine",
+      "summary": "Cellular Neural Networks Key to Monetising the Humanoid WorkplacePipeline Magazine",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1kTXhyUU8tX3pYelUxV0VmOXcwRjA0LWhVUF9YaXR3TDNfdXI1eDJzc0h6MktJcXBFZHFoOFJWdTBNbFdaTzBILVZsZFNfRDBLNThFQ2Y5VVRwLVVtVVF3?oc=5",
+      "date": "2026-07-28",
+      "source": "Pipeline Magazine",
       "category": "google_news"
     },
     {
@@ -344,19 +344,35 @@
       "category": "google_news"
     },
     {
-      "title": "Japan Merges Semiconductor, Robotics, Automotive for Physical AI Leadership - 조선일보",
-      "summary": "Japan Merges Semiconductor, Robotics, Automotive for Physical AI Leadership조선일보",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMU1oNnpUeFdxejg3WHNZQ1VFLWthTkRYWDlSaXNyNE9Qd2J2VW80THNHVk9UaFdtX1hkREd4aGZFeGdudnE5TUxqS0NjaU9BcnYxdU82cl9wT0JRWGxkTEhJbXlSUllaN2w1empTNHV5a2hDRHpWZXVJdkFtUkZXc0Z5Y3hfSTlz?oc=5",
-      "date": "2026-07-27",
-      "source": "조선일보",
+      "title": "Physical AI Computing - Trend Hunter",
+      "summary": "Physical AI ComputingTrend Hunter",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0yS09Hd1UySzBUYkdZN2dwWHBmN1dPMEpta2FuVWVsTmR3MUlKSVJZcEtrX0dYZ29TMVpCaUxGS3NtVi1mZThtRy04Zk1nakRGUV8ycmR3YVk4WGV2aUdOcjEzcV9wM292b1NoaNIBbEFVX3lxTE0yS09Hd1UySzBUYkdZN2dwWHBmN1dPMEpta2FuVWVsTmR3MUlKSVJZcEtrX0dYZ29TMVpCaUxGS3NtVi1mZThtRy04Zk1nakRGUV8ycmR3YVk4WGV2aUdOcjEzcV9wM292b1NoaA?oc=5",
+      "date": "2026-07-28",
+      "source": "Trend Hunter",
       "category": "google_news"
     },
     {
-      "title": "Physical AI computing aims to reshape robotics - SiliconANGLE",
-      "summary": "Physical AI computing aims to reshape roboticsSiliconANGLE",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9mSVd4cUI0NjJiTzhMNm1pLWhodDhDdUlJSjlVU0hVUk5ZSmVyRkZpbTBnLXNBRS1SRVVMUjhUWnNwR0JyTjR0OXRqZHlxRXR3cDdaSTJocmJGTFUtTHBHakZuUnh1YTg5bVZCaXJROFZIVzNoX29Ob2FWNER2dw?oc=5",
-      "date": "2026-07-25",
-      "source": "SiliconANGLE",
+      "title": "Hyundai’s Humanoid Plan Illustrates Confusion On Physical AI - Forbes",
+      "summary": "Hyundai’s Humanoid Plan Illustrates Confusion On Physical AIForbes",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbk9KeGNLQWhGM2dMbWExVzVIS2hBSWdOUmNLLWtuZnVJTnI4YmRIZHEwaTIzVDhKR0VKOTF0N0RXSnVMdV8yZGV3Ri1PUzd1aVM4WFNDRHIwUVZrOGNIa2ZxV1VzS1R3LXRMWjdRbFBLcHJfVEVJN2cxR2pVXzh3QjFBUFRHQzMyWTFfaEk0R2FvQnNRNEl0TklDQXdFdndDaXNvOTJvOUVMdXB5YXZBTg?oc=5",
+      "date": "2026-07-27",
+      "source": "Forbes",
+      "category": "google_news"
+    },
+    {
+      "title": "Robot dogs and physical AI: the sci-fi tech coming to airports - Airside International",
+      "summary": "Robot dogs and physical AI: the sci-fi tech coming to airportsAirside International",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQQlQ0WU5vRFhVbDJIRVE3ME85MFdoWDdFcHJ1XzhQTEFpa0RKc1J6Sl9WVC1TdzFVOGdFR3V3WENFUmY4bXJ3NFUtZTB6M1FXZEZSOWU2LUktbWVrWXlISVRRQ1pXTTBWcE5ycmFUMFFuUkZhVDUzUGJWTmxOTFVlRTFHc0ZfM1ViSGVzazVn?oc=5",
+      "date": "2026-07-28",
+      "source": "Airside International",
+      "category": "google_news"
+    },
+    {
+      "title": "US startup unveils humanoid robot to help hospital labs with routine testing work - Interesting Engineering",
+      "summary": "US startup unveils humanoid robot to help hospital labs with routine testing workInteresting Engineering",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOQlJrZm9pWkpwZklrZlFJSExCNWdTcG52aHoydFNzbl9zUGVHam05ZHdMTjFCMGQwaTJYN2xKVGRkVXRnNVhBUFFiT2YydDRIdjBELUxuSEVGaVE0TUxlc09ReTM5OHFHSW4zR3FZb0ZqR2tDV3k1cGV3Tmx5a1pDSno0V3V3M0Q2Z2FaRElROA?oc=5",
+      "date": "2026-07-28",
+      "source": "Interesting Engineering",
       "category": "google_news"
     },
     {
@@ -368,19 +384,27 @@
       "category": "google_news"
     },
     {
-      "title": "Hyundai Motor Group Outlines Physical AI Strategy - AI Insider",
-      "summary": "Hyundai Motor Group Outlines Physical AI StrategyAI Insider",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPX21ac0RZRV9MQW5YTFVodGktSmtMbUhGRzRhcnpIenRCMklSeUpnN2dvdlNXWW9qY2Q3VW8tQmNwcTR6QmNDQy1UVnhHaTl2UTRQaHFqeTRvUUNRQmJDdXBoSFMtNTlHeTFaaHV3dUVwT0FSdFktQ2JfeUtqaWx1S0lsLW5lSldrTVRtWkdzVF8?oc=5",
-      "date": "2026-07-27",
-      "source": "AI Insider",
+      "title": "Enigma Raised $71M on a Thesis: Robot Interfaces, Not Raw AI, Are the Adoption Bottleneck - Tech Times",
+      "summary": "Enigma Raised $71M on a Thesis: Robot Interfaces, Not Raw AI, Are the Adoption BottleneckTech Times",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQOFBfemRuOHZ0VjMyUUk1T2ZoMGZ1WTN4R204VXEyV0d3cEtSbjVaUVpncGdYYkFySFVEbk5vLUdkUFhnRFV5RDQzNEJqamNUYk5VdnlWc2Yxd1V2aE1CTXBHekxjMndudmlGanlyb1dicFlYeGhrdEM2d0pnSHNJN01JVDdMWHNhb0UtSEpOTllRZzJXcXEzakNMLVE1NktndVYxai1vdGY2R19MQTRvWVNyWEVVdmVIaTlvZWdHVG5VSVg1MEZyTl93dw?oc=5",
+      "date": "2026-07-28",
+      "source": "Tech Times",
       "category": "google_news"
     },
     {
-      "title": "The Robots Cometh - Time Magazine",
-      "summary": "The Robots ComethTime Magazine",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5IWHNaMU1KVFdtazJHNFVqZzZBLXViYmc0cXNSLWFDV2F1cGhsb2dmd0J3d3hsNGJNcHVEYWQyMTc0dkxGdHk0TlVaTE0wOERDSHpGOXJ6aUdHRU1IbnllVjNqTFEyU1Zjd19QR0tQYXplYVU?oc=5",
-      "date": "2026-07-23",
-      "source": "Time Magazine",
+      "title": "Humanoid Global Provides Update on Agility Robotics Public Listing & Opens Silicon Valley AI Hub to Scale Digit Deployments - AiThority",
+      "summary": "Humanoid Global Provides Update on Agility Robotics Public Listing & Opens Silicon Valley AI Hub to Scale Digit DeploymentsAiThority",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNNGNEaXBaZWpoZTFEX1ZBdFBYNlViWWFxakQwMzlQaWhDWHJLZ0ZST2dwTkE3YTVNR3FWMWdZa0R0cWFTdHNXMFo3ejhfamNiM2llYzlHN05DMjNCYjBkU1JGeDl3OWNqTmR6dUhSMW9VN05hWFIyY0ozeElSa1o3eEtTcm10R3VYLWhIX1d2aW1mUTJhbXBzUHcwVHFFUjI0dW1hQnF6OTQxZ0JsWHNLeU1tRTdhUTVCSmJzZ3JFYUJZcHIyNWtZM1JnMjh5R2JKalp3SVRwNm53SmFCa0JXSDdidGNKZw?oc=5",
+      "date": "2026-07-28",
+      "source": "AiThority",
+      "category": "google_news"
+    },
+    {
+      "title": "Physical AI computing aims to reshape robotics - SiliconANGLE",
+      "summary": "Physical AI computing aims to reshape roboticsSiliconANGLE",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9mSVd4cUI0NjJiTzhMNm1pLWhodDhDdUlJSjlVU0hVUk5ZSmVyRkZpbTBnLXNBRS1SRVVMUjhUWnNwR0JyTjR0OXRqZHlxRXR3cDdaSTJocmJGTFUtTHBHakZuUnh1YTg5bVZCaXJROFZIVzNoX29Ob2FWNER2dw?oc=5",
+      "date": "2026-07-25",
+      "source": "SiliconANGLE",
       "category": "google_news"
     },
     {
@@ -392,27 +416,11 @@
       "category": "google_news"
     },
     {
-      "title": "NEURA Robotics establishes NEURA Gym RWTH Aachen to train physical AI - The Robot Report",
-      "summary": "NEURA Robotics establishes NEURA Gym RWTH Aachen to train physical AIThe Robot Report",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSVdMZmJpUXcxbkhwdENTQjZMZ2xGTGdOSGM0QnFjS3NsYzdBbi1YdXJxM2lLOU1acGUyMU9ObmpiUFVMY3VVUU1kMHhjeU9DOEV2clFLRHUwZG1rd2NNWmlwSHBQNmxXX1F1aEYxV0ZoaW4tV2RsMGFiTm1Id2hkYzFnUmlpZjhrTV9MYU9rbzRQQTA2dlh0akdjdUoxUnM?oc=5",
-      "date": "2026-07-24",
-      "source": "The Robot Report",
-      "category": "google_news"
-    },
-    {
-      "title": "AI incarnate, or agents of chaos? How to secure physical AI - The World Economic Forum",
-      "summary": "AI incarnate, or agents of chaos? How to secure physical AIThe World Economic Forum",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNbG1iMlNpLVpFbTY0Ul9FZnJjQmpZWW12bjR4VmxtVDZ4Z0M3dzNBdTNFOVlPUnlscjk5dXNWeGYxUmN4a2ZwWU8zMHZEeE1FdGVINGM0ckEzbUE2N19OQkR5T3VVeElZNjdXa2Q3ZXFHUlBHMjdES3pzak8zNzFOZU1Ncjl5Y3VndjlFbzY1US1tWUcz?oc=5",
-      "date": "2026-07-22",
-      "source": "The World Economic Forum",
-      "category": "google_news"
-    },
-    {
-      "title": "British humanoid robot maker Humanoid raises $152 million in VC - DC Velocity",
-      "summary": "British humanoid robot maker Humanoid raises $152 million in VCDC Velocity",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOS3dka05CUTRXdFJPOUNXSU9kNlRvRWpaeWp6ZVZQUjY0bGxhWG40eU95MzB6UWhLOWptNnVYbGVyWF9rQ2F4SVY1QnFNWXQ1cmJlOU16anl5cUFMZW4tR0ZkdnZmQmpmWm5vUUtWay1QTTZSY2wxbkVrM1BQX0JkUi1KRTUyaHh4bUNKMXRBc0F0YjR3Q3J0cE42YkFKS0dsQ3NsczF6R053VmdZU1hXM0treEhkRkE?oc=5",
-      "date": "2026-07-24",
-      "source": "DC Velocity",
+      "title": "The Robots Cometh - Time Magazine",
+      "summary": "The Robots ComethTime Magazine",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5IWHNaMU1KVFdtazJHNFVqZzZBLXViYmc0cXNSLWFDV2F1cGhsb2dmd0J3d3hsNGJNcHVEYWQyMTc0dkxGdHk0TlVaTE0wOERDSHpGOXJ6aUdHRU1IbnllVjNqTFEyU1Zjd19QR0tQYXplYVU?oc=5",
+      "date": "2026-07-23",
+      "source": "Time Magazine",
       "category": "google_news"
     },
     {
@@ -424,27 +432,11 @@
       "category": "google_news"
     },
     {
-      "title": "Why physical AI demands more than a central processor - Engineer Live",
-      "summary": "Why physical AI demands more than a central processorEngineer Live",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPbnNoU1l4VTVQeVlzN2dtUlVtbXA4RE83a2hfNG5ZRUpPS3luM3B5Y1NGaDV3YnRrSzkyRnl3bFhUU0FzVHUxLVh6aDJfQjI4dWVJbGQ0U3NITjZhVWlOdHhXTUVES0tSOUJNYkVaemhIdmF5TERVblBySFBwaGFjZmswSWJTUQ?oc=5",
+      "title": "British humanoid robot maker Humanoid raises $152 million in VC - DC Velocity",
+      "summary": "British humanoid robot maker Humanoid raises $152 million in VCDC Velocity",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOS3dka05CUTRXdFJPOUNXSU9kNlRvRWpaeWp6ZVZQUjY0bGxhWG40eU95MzB6UWhLOWptNnVYbGVyWF9rQ2F4SVY1QnFNWXQ1cmJlOU16anl5cUFMZW4tR0ZkdnZmQmpmWm5vUUtWay1QTTZSY2wxbkVrM1BQX0JkUi1KRTUyaHh4bUNKMXRBc0F0YjR3Q3J0cE42YkFKS0dsQ3NsczF6R053VmdZU1hXM0treEhkRkE?oc=5",
       "date": "2026-07-24",
-      "source": "Engineer Live",
-      "category": "google_news"
-    },
-    {
-      "title": "Encord is collecting brain-wave data to solve physical AI's training data crisis - Startup Fortune",
-      "summary": "Encord is collecting brain-wave data to solve physical AI's training data crisisStartup Fortune",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNY2RHdDBCTXJoMTZ3azk2R0tqMTZjYmhvZV9PRU8wVnF5R2VyTTN6a285Zy1CVzJodUNTWnJvNmhvenRXMzdTZm1MTmdNTW40QjJ2M1lSOUtVbTBfdjhYc3Q3LTFxOXQ3MDBlcW0wTUhpTTR2SzQ5cnFkRTJoLWlvRzhlcTVrU0dCS0hGLTJHQ2ZIVEVtekJRaUV3VXVTOTljNVhRaTREeXpXZnM?oc=5",
-      "date": "2026-07-27",
-      "source": "Startup Fortune",
-      "category": "google_news"
-    },
-    {
-      "title": "NVIDIA Announces Halos for Robotics, the Industry’s First Full-Stack Safety System for Physical AI - NVIDIA Newsroom",
-      "summary": "NVIDIA Announces Halos for Robotics, the Industry’s First Full-Stack Safety System for Physical AINVIDIA Newsroom",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPWmFDTE4zYjNhdHNQWkQwTTYtV0hMMWd2OS1iRU9wc29OcHFTVFpEQmZHRWo1VE5UVEpIck5xajdqUlJvMTkzOWM1cmt0V2tRLWRtUVBrcFZnb0tsRUNLVk5hWVdtTmFGVTkyNE1XczhvaWJBbUpTQ1VQcjRCT2I0c1F4VlktTlNKRFhtRWZNWDlaZy0yLVZnc25nX0dFdV9ZWGpXOFM5UnZaSWtwdmo0Qk44YWR3VVV1MFE1WlZwZjlIdWFlNHpxdkNXTQ?oc=5",
-      "date": "2026-06-22",
-      "source": "NVIDIA Newsroom",
+      "source": "DC Velocity",
       "category": "google_news"
     },
     {
@@ -456,35 +448,19 @@
       "category": "google_news"
     },
     {
-      "title": "Elon Musk says Optimus could be Tesla's biggest product ever. It still has 3 huge hurdles. - Business Insider",
-      "summary": "Elon Musk says Optimus could be Tesla's biggest product ever. It still has 3 huge hurdles.Business Insider",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORUY0MHF5VV81TTNybXRNTnN2ZU96U1F6X2RMNlJaVjZreG4xck9oNUNPVXlubU9vVUhfNG4wSlpPLUVXRDg4S0hlZGR0STBndmVVRUZWNFdCNmFVQ1JBUDJOaTc5emI2SWdGT0w1ZmlyNndGbzRLa005LTY3V1dJdXVIRHVnZUdwNnFiRUdrQUhNSzhYZ2FqeQ?oc=5",
-      "date": "2026-07-24",
-      "source": "Business Insider",
+      "title": "AI incarnate, or agents of chaos? How to secure physical AI - The World Economic Forum",
+      "summary": "AI incarnate, or agents of chaos? How to secure physical AIThe World Economic Forum",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNbG1iMlNpLVpFbTY0Ul9FZnJjQmpZWW12bjR4VmxtVDZ4Z0M3dzNBdTNFOVlPUnlscjk5dXNWeGYxUmN4a2ZwWU8zMHZEeE1FdGVINGM0ckEzbUE2N19OQkR5T3VVeElZNjdXa2Q3ZXFHUlBHMjdES3pzak8zNzFOZU1Ncjl5Y3VndjlFbzY1US1tWUcz?oc=5",
+      "date": "2026-07-22",
+      "source": "The World Economic Forum",
       "category": "google_news"
     },
     {
-      "title": "Japan Positions Physical AI as Next-Growth Engine - 조선일보",
-      "summary": "Japan Positions Physical AI as Next-Growth Engine조선일보",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUkl2WVhteWZrNk52N3g2czRjOTJVVlNBWlRrdmQ0Wk5JZ0VNelBZZkJwMWlxaWtfNE12Z2wxSm5NMkFSN0hCQmVkd3kwOXpEQTdVcElhVndGeWstVEhPUXVSMjBtMDRrSnlkN0J0YjhIN0hRUU01c256WXd1U29oV3M4cVlhU3Bj?oc=5",
-      "date": "2026-07-27",
-      "source": "조선일보",
-      "category": "google_news"
-    },
-    {
-      "title": "Generative Bionics unveils humanoid robot with full-body tactile sensing - The Robot Report",
-      "summary": "Generative Bionics unveils humanoid robot with full-body tactile sensingThe Robot Report",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPalA2RG5oNmNfS0RFZmY4cFgxU0xMTUtPYlgyQmQ2N1haQlkxQnlFdmxCNUduVDhXTng0NEdLSE9hS0ZVZFk2TUVjMVNWZmhkaEdtZzgzOHk4X0RDMFppXzN6OHRvdE5XSWVwX0h5dk5rRVBQVVNBTnlpOFJ2SG9wMlJPaEpzOWxnUXBJb3Q4NHR6eDhLSFZXSGItOTRGZEZVVzI3bmlGcw?oc=5",
-      "date": "2026-07-21",
-      "source": "The Robot Report",
-      "category": "google_news"
-    },
-    {
-      "title": "San Diego Charter School Embraces Physical AI With Humanoid Robots - GovTech",
-      "summary": "San Diego Charter School Embraces Physical AI With Humanoid RobotsGovTech",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPb3JTZ2NFQnRlVm55cUlFWUpKTW9kNm1vTEN2TXNlOGU4V3p6Q2o1bG1HWkw0dE41clBBN1BRc2NUWjlTd0VRYUNjNllhcEhhQW43UTVUYTdFU1pnZ3czSnVRbHpCV3dvcHhxY0szNU1xMy1NTTV3X3U0WTFLcDRlVU1Ga0V0VXgySnNCdVVxZU1VLURlb00wS0tSTWVCMGJBLTJtX0hFd3U?oc=5",
-      "date": "2026-06-30",
-      "source": "GovTech",
+      "title": "LG Innotek, TDK partner on physical AI sensing - The Korea Times",
+      "summary": "LG Innotek, TDK partner on physical AI sensingThe Korea Times",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSzFrRnpBM2Jocl9NemlPbzhUYVpnREU0bHBzc0hvNnhOVWxWb3JndGF4SEl3SGJXMEpSMVo1UWxMRF9hQ1poSzFQeHpYRmczeUF4dEpJd3ZvOVZnX2k5RXFndnozTVJvbE1uWkdCV2t0SjhtWVBYbUlRSnFyWXN1b0ZWOU5wdmxWUkNES1o5WUxkWm1IMmNBbGc1OGlPUFlKOG9sMNIBqgFBVV95cUxOQ2pBaUI2d29sMzl1YThiWk9NcHM0VXlsd2ZNWFdkUEVHaE9QN1F6LWpBWXRUTDFYVjdXTS1QWkxHV0VtODdHQlFldExXcWhlMWtZOHVKSEQ3WXJEVlpGYXh0R0tScTBoeGxxYUVDZTdITnFMeEhRRXNuQ2hjTEpucy1rdmZsYk5aY1AwbVdjX1VXeW9YX1pyZE16RzlZX3o5by0tVUh3ZGZwdw?oc=5",
+      "date": "2026-07-28",
+      "source": "The Korea Times",
       "category": "google_news"
     },
     {
@@ -496,19 +472,11 @@
       "category": "google_news"
     },
     {
-      "title": "BMW Group Plant Landshut develops software for humanoid robotics in component production. - BMW Group",
-      "summary": "BMW Group Plant Landshut develops software for humanoid robotics in component production.BMW Group",
-      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPWG1HdHQxbnRmaFBkOFRxOVJkZDdJZ1pDVkctX1ZIbE9HeFhxVnVBVGtOck9RNlpObTlRNVJwX0VPV3lKNnJTbXFBTzlEeUg0QjVDMXYzYktORWhUSlo5aGJzX2N3VEdUV0xxbTlQV0tUN2VGYW9CeDBNZjQ1NDN0QUFDY19LMUdObTNkeENNMkZzUWtManRQSGFmemdqdjhTT2dhR3kwMDMxbWJiT3RlaTFtelhib0pKU21VY0NCTEFnSVhoeEhmejNhaDB5NlRsM0ZuOTFLUjRqa0RnZnZHZDQtaGZqMWYyTDhhTHlaN0R3WGZHUXQ4?oc=5",
-      "date": "2026-07-21",
-      "source": "BMW Group",
-      "category": "google_news"
-    },
-    {
-      "title": "‘Space race of our time’: can Europe compete with China, US in humanoid robots? - South China Morning Post",
-      "summary": "‘Space race of our time’: can Europe compete with China, US in humanoid robots?South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPN1h5akxSaXQ1cXRsdWZMWk1ZUUZ2SmhzMTJEdjRuYWs0bFdtNi1ueERvQS1nQm1WUGk4VEpBUHQxRXVXNURQamk5bkNoYS1lTGd2TDhQRDVCcjJaSEZ2eUI2WlJjcUFValc5V0hGU3JoMXJUcFdNTDdSbGlIdWptWGdlRGd4VnVwR1JpSVdNMjI1NjBaenhHX1VxT3A2d3BXSHU0aVZrbnRkOFF6RFVORE9yMmc5Q3BWVXNkeVVnMGdVblZZ0gHEAUFVX3lxTFAwZnREeFRaa2lrTjR4SUlqa2QwcDg3U09qY1ZnOEV1RWtqZkpmVzdydldENXlnX05rb2VyaVFlaUNCNGZNNzI0anhmTlk5WW12YzRYZU5VOHF3MVcydUthQUttaXZmR0EwZUp0MjRHeXhRcndYMEpQRGZFaEVRV0ZndHlJWkYtQThiVTU5XzRiM25kdW5FdUk1d0hPZG5RVGJYT1dQRDd6Wl94Tl9KN2ZrcjBJQlJiWF9uNkg2YjJ0eFk4T2M?oc=5",
-      "date": "2026-07-08",
-      "source": "South China Morning Post",
+      "title": "Hyundai Motor Group Outlines Physical AI Strategy - AI Insider",
+      "summary": "Hyundai Motor Group Outlines Physical AI StrategyAI Insider",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPX21ac0RZRV9MQW5YTFVodGktSmtMbUhGRzRhcnpIenRCMklSeUpnN2dvdlNXWW9qY2Q3VW8tQmNwcTR6QmNDQy1UVnhHaTl2UTRQaHFqeTRvUUNRQmJDdXBoSFMtNTlHeTFaaHV3dUVwT0FSdFktQ2JfeUtqaWx1S0lsLW5lSldrTVRtWkdzVF8?oc=5",
+      "date": "2026-07-27",
+      "source": "AI Insider",
       "category": "google_news"
     },
     {
@@ -520,6 +488,14 @@
       "category": "google_news"
     },
     {
+      "title": "This New York School Is Becoming a Humanoid Robot Company's Biggest Test. There's Just 1 Problem - inc.com",
+      "summary": "This New York School Is Becoming a Humanoid Robot Company's Biggest Test. There's Just 1 Probleminc.com",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPeVktWEpOTHhpMFhoZTFOREtXU2FuNGExblhwQkRNYzQ2RFlFRnEtcnRYcmc1cXhtem5YaGsyTzM1ZmFHOGtqdDU4eU03QnFELUlYUmlYd2w3Nk9BcW9ub2gtZlpyQkRxdXBVZ01xZDk5NzFMNElxV0pmdmFzT3l4bzB3b28xLUhHUkxpSmNIQ3p4YUJ2SXJjeE1kVDh2aUxHMndoSzU0NHA?oc=5",
+      "date": "2026-07-20",
+      "source": "inc.com",
+      "category": "google_news"
+    },
+    {
       "title": "From livestream to embodied AI: Richtech Robotics is redefining the human–robot interaction - Digital Journal",
       "summary": "From livestream to embodied AI: Richtech Robotics is redefining the human–robot interactionDigital Journal",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNMW1RTFB1bWhxalJsakVWVmZ5Y1B5WFZyZlAwcWhVZ29UTHE1WlBtU3MwLXZKam1UVmdLRUlZRHQzUHBmRU1sZmRMaEN1dk1CeXlCUUVKSm1UbFE0dWVGM3d6aF9SRWFwemt6SnM4Mmw3WDgyTXdUZmwzTmtrX2t6aDlrbzk1WS1qLUxEc1FsekRWNEdyU1pJTGFLMkF4a215VG1tYjNMLVczQ0RMUDFGakpvQ1h0RjBvam91Q3lKVmFPU1NQTDItRVlR?oc=5",
@@ -528,11 +504,51 @@
       "category": "google_news"
     },
     {
-      "title": "Can Japan Revive Its Manufacturing Dominance with Physical AI? - News On Japan",
-      "summary": "Can Japan Revive Its Manufacturing Dominance with Physical AI?News On Japan",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBKcTJWT1c2NDRMQjNmUDQ3bmNpOXFQb3RQLVJmcHlUbGhISlNzdnBYWkJCYXV0cXJHTjd3aG9CV0lZVks1Vi10NnRRanQxTTUybUZkUQ?oc=5",
-      "date": "2026-07-22",
-      "source": "News On Japan",
+      "title": "Japan Bets on Physical AI as Next-Gen Growth Engine - 조선일보",
+      "summary": "Japan Bets on Physical AI as Next-Gen Growth Engine조선일보",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUkl2WVhteWZrNk52N3g2czRjOTJVVlNBWlRrdmQ0Wk5JZ0VNelBZZkJwMWlxaWtfNE12Z2wxSm5NMkFSN0hCQmVkd3kwOXpEQTdVcElhVndGeWstVEhPUXVSMjBtMDRrSnlkN0J0YjhIN0hRUU01c256WXd1U29oV3M4cVlhU3Bj?oc=5",
+      "date": "2026-07-27",
+      "source": "조선일보",
+      "category": "google_news"
+    },
+    {
+      "title": "‘Space race of our time’: can Europe compete with China, US in humanoid robots? - South China Morning Post",
+      "summary": "‘Space race of our time’: can Europe compete with China, US in humanoid robots?South China Morning Post",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPN1h5akxSaXQ1cXRsdWZMWk1ZUUZ2SmhzMTJEdjRuYWs0bFdtNi1ueERvQS1nQm1WUGk4VEpBUHQxRXVXNURQamk5bkNoYS1lTGd2TDhQRDVCcjJaSEZ2eUI2WlJjcUFValc5V0hGU3JoMXJUcFdNTDdSbGlIdWptWGdlRGd4VnVwR1JpSVdNMjI1NjBaenhHX1VxT3A2d3BXSHU0aVZrbnRkOFF6RFVORE9yMmc5Q3BWVXNkeVVnMGdVblZZ0gHEAUFVX3lxTFAwZnREeFRaa2lrTjR4SUlqa2QwcDg3U09qY1ZnOEV1RWtqZkpmVzdydldENXlnX05rb2VyaVFlaUNCNGZNNzI0anhmTlk5WW12YzRYZU5VOHF3MVcydUthQUttaXZmR0EwZUp0MjRHeXhRcndYMEpQRGZFaEVRV0ZndHlJWkYtQThiVTU5XzRiM25kdW5FdUk1d0hPZG5RVGJYT1dQRDd6Wl94Tl9KN2ZrcjBJQlJiWF9uNkg2YjJ0eFk4T2M?oc=5",
+      "date": "2026-07-08",
+      "source": "South China Morning Post",
+      "category": "google_news"
+    },
+    {
+      "title": "Japan Positions Physical AI as Next-Generation Growth Engine - 조선일보",
+      "summary": "Japan Positions Physical AI as Next-Generation Growth Engine조선일보",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMU1oNnpUeFdxejg3WHNZQ1VFLWthTkRYWDlSaXNyNE9Qd2J2VW80THNHVk9UaFdtX1hkREd4aGZFeGdudnE5TUxqS0NjaU9BcnYxdU82cl9wT0JRWGxkTEhJbXlSUllaN2w1empTNHV5a2hDRHpWZXVJdkFtUkZXc0Z5Y3hfSTlz?oc=5",
+      "date": "2026-07-27",
+      "source": "조선일보",
+      "category": "google_news"
+    },
+    {
+      "title": "BMW Group Plant Landshut develops software for humanoid robotics in component production. - BMW Group",
+      "summary": "BMW Group Plant Landshut develops software for humanoid robotics in component production.BMW Group",
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPWG1HdHQxbnRmaFBkOFRxOVJkZDdJZ1pDVkctX1ZIbE9HeFhxVnVBVGtOck9RNlpObTlRNVJwX0VPV3lKNnJTbXFBTzlEeUg0QjVDMXYzYktORWhUSlo5aGJzX2N3VEdUV0xxbTlQV0tUN2VGYW9CeDBNZjQ1NDN0QUFDY19LMUdObTNkeENNMkZzUWtManRQSGFmemdqdjhTT2dhR3kwMDMxbWJiT3RlaTFtelhib0pKU21VY0NCTEFnSVhoeEhmejNhaDB5NlRsM0ZuOTFLUjRqa0RnZnZHZDQtaGZqMWYyTDhhTHlaN0R3WGZHUXQ4?oc=5",
+      "date": "2026-07-21",
+      "source": "BMW Group",
+      "category": "google_news"
+    },
+    {
+      "title": "Japanese university startups develop AI robot arms for delicate tasks - Nikkei Asia",
+      "summary": "Japanese university startups develop AI robot arms for delicate tasksNikkei Asia",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQbDJSdjVUNXJrcFZpY3lBdW1NU1Z1LU5zcWI4UWs2NGd0LU5QMGFGZHNmM1ZPdXZYLXdqblQ4Zkdrb0poZlVkRENyUDlpaERLcExQSlliVVVUN1oxb2hhZVozcTBMbmd5T0xENlM5THMxNlNiMUVseldLbjBwWGRqRzZyNGdaNXphWURIem5KaGZhSWVXcmVKY3N4OW90ZEhraC02SkFoZWxfS2RHTU1xVXJNLV9mcFk2eE1XWnd6Vi1fLXprVDdST3dCUUg0YVM3UXVn?oc=5",
+      "date": "2026-07-27",
+      "source": "Nikkei Asia",
+      "category": "google_news"
+    },
+    {
+      "title": "Generative Bionics unveils humanoid robot with full-body tactile sensing - The Robot Report",
+      "summary": "Generative Bionics unveils humanoid robot with full-body tactile sensingThe Robot Report",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPalA2RG5oNmNfS0RFZmY4cFgxU0xMTUtPYlgyQmQ2N1haQlkxQnlFdmxCNUduVDhXTng0NEdLSE9hS0ZVZFk2TUVjMVNWZmhkaEdtZzgzOHk4X0RDMFppXzN6OHRvdE5XSWVwX0h5dk5rRVBQVVNBTnlpOFJ2SG9wMlJPaEpzOWxnUXBJb3Q4NHR6eDhLSFZXSGItOTRGZEZVVzI3bmlGcw?oc=5",
+      "date": "2026-07-21",
+      "source": "The Robot Report",
       "category": "google_news"
     },
     {
@@ -544,38 +560,6 @@
       "category": "google_news"
     },
     {
-      "title": "Investors bet humanoid robots will transform industry and homes over the next decade - CNBC",
-      "summary": "Investors bet humanoid robots will transform industry and homes over the next decadeCNBC",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPb3YzODd0aFllSUd5aW1iSWd5Vm5KS0twRzdaYXQza2NlS3pJLVZWTEp1X1hNTFVpSWRKeW9jUnJJbTdKa3J6clZQQUNQdUc3MWdwc2E5MEhscFk4Umw4WjI4cF9TQXplaWllU3IxY0lObTM3NVBMSmdEWndiVHVqeDJPaV_SAYoBQVVfeXFMTXJQcTRqNVQ0X1lROEptVUQxNk8yWjBlT0RBb0puc2F4S3FTRklib29BaHRobWUxVXdLNVdTR0pTWWlwaUFVX2pWSGl5M05mMTEzdDJMS0dCNTRZVGh2ZGhrVGV4YlBZNUM3MG1udThBTndPQVhWMGI4S0xKcFlFV3hfYjZiOUpGWFBR?oc=5",
-      "date": "2026-06-03",
-      "source": "CNBC",
-      "category": "google_news"
-    },
-    {
-      "title": "Humanoid Robot Steers Naval Vessel for First Time as South Korea Faces Crew Crisis - Tech Times",
-      "summary": "Humanoid Robot Steers Naval Vessel for First Time as South Korea Faces Crew CrisisTech Times",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQMWU3SGc5Ri1OYUZrUnlScWlrLXFEODB5WWNQcEUxaTE0RlprM01DcDdfZ2hpeDNiRzlSYWR1cDRmNi03MnY3UDRPVldJdS1YZ3hRRVRwckxHQnp4VmpFcHA5Y1llY3pRNDVFMXdyTGxMcFZ4ekpfSHo5MEFKd3J3UVp5ekhyX2czbFVHOFVXdGNxMEZ6VjlpOFJxM001bzlSdlZUTXVLTlpYak9sZ1JRRlJ4MVZOQjhVWi1DcnNuYlZLX3JhZTV4WXVR?oc=5",
-      "date": "2026-07-25",
-      "source": "Tech Times",
-      "category": "google_news"
-    },
-    {
-      "title": "10 things you need to know about humanoid robots - Barclays Investment Bank",
-      "summary": "10 things you need to know about humanoid robotsBarclays Investment Bank",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOdExNWlVKcjR5THloRzhmZTZkMkxsOHZkTUF1WTNiRFVjdC00TjBiRjBseUJjMjBCSFFrMGVhakZ1Zm9YU3lLZktVb29JVzFHajZIT1doZ1NkcG1HQ0x1bnU2amE2dW1vN29pcHNDRHlKSU1uMHNiblFqMXJ2aHVMbGktY1U2cklfdHZWd3VWWjdWMHlO?oc=5",
-      "date": "2026-06-18",
-      "source": "Barclays Investment Bank",
-      "category": "google_news"
-    },
-    {
-      "title": "Physical AI Out of the Lab… XYG Deploys Semi-Humanoid 'Deuce' to Real-World Stores - 벤처스퀘어",
-      "summary": "Physical AI Out of the Lab… XYG Deploys Semi-Humanoid 'Deuce' to Real-World Stores벤처스퀘어",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBMaFFxcktDLUV0VFBJTDhYLUUwUi1zeHUxVXRhU0F6cWdCTzl5LTlnTnNnRGhjdFhRekgzZXM4dFJ6TlZHVTNvZXJsdGZOU05hWFZJ?oc=5",
-      "date": "2026-07-27",
-      "source": "벤처스퀘어",
-      "category": "google_news"
-    },
-    {
       "title": "Singapore's Ropedia raises $30M to teach robots how to do chores by watching humans - Startup Fortune",
       "summary": "Singapore's Ropedia raises $30M to teach robots how to do chores by watching humansStartup Fortune",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOV1M2UVNjSk9kZ1Y3c2REN1Z2Wngxc1kxMWNwTFV1WEFiRkdrc2Frbk45bWhoLXBsVDJuOXpOSW1weGs5WV92Vk0zVWpFY0xHYm1yZnNxNGF4Nkx4cll4VGFKbElyd2QyWmJGdVFWZklvbl9wR2s2ZGFTNHNhQ3VWTjJpLXF2R3I4azF4MkpiUUdvY0JrOWItR1RVYUtHNV9vYlJsNlgyV1ZnNVFXTnc?oc=5",
@@ -584,27 +568,35 @@
       "category": "google_news"
     },
     {
-      "title": "BMW Group advances the use of Physical AI in production with Figure 03 project in Spartanburg - BMW Group",
-      "summary": "BMW Group advances the use of Physical AI in production with Figure 03 project in SpartanburgBMW Group",
-      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPNjJlc1ZtRWxFbUxqY3Z0MElMNUlQRDBfR0pLc0xKSGctRkJEa2tMZGxBSWVCZTdYM3YwZ2l6UTUtb2JvQVZsZkJIeGYtb3lRSndUZEE4Z2g3Nkp1T0R1ZkdST1pHU0JzTkFvYVd0LTFhQVV5UUJrazhMbURPc3dLM0ZmaC1NNG9BQ1pVdUF4X1l5cnQwLTdrYVZiUmNwX1VjY2RRMkFwY2pqdGdET05KcUgzSUZ3NDFBa2JQNWstaEFaRjVwMWk5U1NoTlBXSDVRUWpnWWFHcXdVZkhEMkw2c2lqb253M2dZeGRpY2RlSm9NbURNVEVsS3c1US0xZw?oc=5",
-      "date": "2026-06-25",
-      "source": "BMW Group",
+      "title": "San Diego Charter School Embraces Physical AI With Humanoid Robots - GovTech",
+      "summary": "San Diego Charter School Embraces Physical AI With Humanoid RobotsGovTech",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPb3JTZ2NFQnRlVm55cUlFWUpKTW9kNm1vTEN2TXNlOGU4V3p6Q2o1bG1HWkw0dE41clBBN1BRc2NUWjlTd0VRYUNjNllhcEhhQW43UTVUYTdFU1pnZ3czSnVRbHpCV3dvcHhxY0szNU1xMy1NTTV3X3U0WTFLcDRlVU1Ga0V0VXgySnNCdVVxZU1VLURlb00wS0tSTWVCMGJBLTJtX0hFd3U?oc=5",
+      "date": "2026-06-30",
+      "source": "GovTech",
       "category": "google_news"
     },
     {
-      "title": "Italian Startup Debuts Gene.01 Humanoid With Skin That Senses Humans Before Contact - Tech Times",
-      "summary": "Italian Startup Debuts Gene.01 Humanoid With Skin That Senses Humans Before ContactTech Times",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPelhTMkVMZ2lEU08yZUJGeWxMT2RUem04eWdrX2pvV3c4NTEyQTVLbmpZSUUtRUsya1BzRDNQYlhXUDNWeUdKOVpSUjhTc2RHVmpHUThSVmZrLVJ1VVZYSzRVaEJ3S05wS1VyckI2Z2t2RTEzOWVtRXJCSF8xYlFGckl4UnZUYzJaLWlSaEl1Z1pNSlc5XzZYbFhRQVJVc0dCMG9kREJQNFNtX0ZSbWNfUE52QTF3U2FXanVfVnR1ekdCc3dkMGJFeDZGb1I?oc=5",
-      "date": "2026-07-24",
-      "source": "Tech Times",
+      "title": "Can Japan Revive Its Manufacturing Dominance with Physical AI? - News On Japan",
+      "summary": "Can Japan Revive Its Manufacturing Dominance with Physical AI?News On Japan",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBKcTJWT1c2NDRMQjNmUDQ3bmNpOXFQb3RQLVJmcHlUbGhISlNzdnBYWkJCYXV0cXJHTjd3aG9CV0lZVks1Vi10NnRRanQxTTUybUZkUQ?oc=5",
+      "date": "2026-07-22",
+      "source": "News On Japan",
       "category": "google_news"
     },
     {
-      "title": "Samsung Makes Big Move Into Humanoid Robots— Hires Former Hyundai Robotics Leader to Lead the Charge - Benzinga",
-      "summary": "Samsung Makes Big Move Into Humanoid Robots— Hires Former Hyundai Robotics Leader to Lead the ChargeBenzinga",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPSnlvNEg3c2VSUUg0MVZGNWNESHcwNlpyTVNIbW5TbS02dW9ta05yY0pqSTdxYnA4MVdhT1I3QWNrYU9YY0tBNHdwMHVXQnRqTjFFVm1XVlVOYjBlaHVHeGtONnV3LVYxN3RDc19DN08zQkNZdlliNDF2MUVDZ1dDSWhoTXU2WHNyU05URlN0ejl6VjJTeWJCaFhyVkM1Um1FcEh0RTU2MHJLdENjTTAxcHJNNE1XVmJoNkxpT2k2OUZjVERzN0tmcGZLVmsxNFktTkhfQXdaZmUtWUloc0lBM1lZakk2SHM?oc=5",
-      "date": "2026-07-21",
-      "source": "Benzinga",
+      "title": "XPeng Aims to Produce Over 1,000 Robots a Month as It Plans Global Rollout - WSJ",
+      "summary": "XPeng Aims to Produce Over 1,000 Robots a Month as It Plans Global RolloutWSJ",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQMTBzVlJkV0J1clN3Z2JZZ29OWTJUR2NYU1F3MC1YenEzcUNZU3V1VWhwZXFpT0l4MDFtem1hS3VSYjRvSTd0dU9SOHJuR1BEa2ExZ2NIN3FOVHJaZWJPTlRZdnBFdGgxR19rTFB0bFFtQXBHNWJNeFFkOHlqbXlUS3g4Zm02XzR1SFdKcFVwWGxBbzNPbGM5Q2RlTkNCM0ozTmxkSWlYOXhjRHRSRGdsazNSTGZNNGIweEE?oc=5",
+      "date": "2026-07-15",
+      "source": "WSJ",
+      "category": "google_news"
+    },
+    {
+      "title": "[Why&Next] Hyundai Motor Group Leads 'Physical AI'... Atlas to Begin Client Pilots Next Year - 아시아경제",
+      "summary": "[Why&Next] Hyundai Motor Group Leads 'Physical AI'... Atlas to Begin Client Pilots Next Year아시아경제",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE95VDZzRThpcGpIZzR3endDQ3VxcXRMWXpPc25sTDhMYloxdXJiNlE5ajBLQng2ZTBUbVRlRUZZOVlaUTlUeEcycmxnRE5ibzhpdDg5NmlnVkJPYUdKVUQ5NDVnOUg?oc=5",
+      "date": "2026-07-28",
+      "source": "아시아경제",
       "category": "google_news"
     },
     {
@@ -616,67 +608,11 @@
       "category": "google_news"
     },
     {
-      "title": "Samsung Creates Dedicated Robotics Division RX to Accelerate Humanoid Hardware Development - Hypebeast",
-      "summary": "Samsung Creates Dedicated Robotics Division RX to Accelerate Humanoid Hardware DevelopmentHypebeast",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNSHdDMTEwOFpDeUhzdFZWS1NvNmxBZ2hsdUhORHpuYVNHekNJS1pmRVRmZkU4a3JjclRVQlFrak5jVG1pN0pWbGhVS1VoWDNLQ2RFcllsaE4tRGs2NVAzQnZKQjI2dnVLTzBkVE94LUN0dTNnb0V2S205aUlPRXZleEcxLU9lQmg1NkMwRnNPekY?oc=5",
-      "date": "2026-07-22",
-      "source": "Hypebeast",
-      "category": "google_news"
-    },
-    {
-      "title": "Why the next decade of physical AI must be human-centric - The World Economic Forum",
-      "summary": "Why the next decade of physical AI must be human-centricThe World Economic Forum",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZzkwWndKQW1HQnRWTEs4XzFya1NZd2s0RXF3RWJqT0Q1RTZzTXBXcVdEVENRYU1CYlM2QXppMXN3dTR3bHFHN2lLazBqUmw0RUFiaVB1NU9ZVjBZSjJ5bG1kYkxRSUNkR2wtazdRell5Q3lZbko0bW5SZkJDMlR0RUl4ZnRXbFhsTTZsUGtZQk5CSHRkXzEzbA?oc=5",
-      "date": "2026-05-27",
-      "source": "The World Economic Forum",
-      "category": "google_news"
-    },
-    {
       "title": "UMA Unveils Its Vision for the Next Generation of Humanoid Robots - Business Wire",
       "summary": "UMA Unveils Its Vision for the Next Generation of Humanoid RobotsBusiness Wire",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPb2xmMkw4eXk0Um90X0twYmtha294UDJvOURGdURrYld6RXZSQTN5T05GejZlVElydkVkVVZFcFFnN0FPMURfeFJ6MGZfMkt3ZzkxQmdvS2Y0WmtoVXJHZzdvMDBMbXpVMHVsWlZkOE84VnBrcUt1YlRHdkt1UEcwcW9lUWZtYkR6OHRVUzBHWDdjeWczYXAtWnNhVEZZdDFXOEFfQU1NcVY5YVVscjJmaEo1cElzbTRyVEZlOVZRYw?oc=5",
       "date": "2026-07-07",
       "source": "Business Wire",
-      "category": "google_news"
-    },
-    {
-      "title": "Humanoid Robots Just Performed Live Surgery For The First Time Ever - Forbes",
-      "summary": "Humanoid Robots Just Performed Live Surgery For The First Time EverForbes",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNU0N3SWJTZ1BqbzlibXVsR2RIOHAwa1F5bmJISkhqR2NzcTIzT2t2S2FmSkxJQjJTdm9JWVIwaWM3d05ieGpFYUxBbzdQMWlQVnFjNnBkbk12M2hhMlA4OFlUZ0I4UWVfMXk0bXIydGM4V1YwT1Zzb2FxNksxYjZYMlFkOVZZUjFjSmtpRWlKd3lDeThlRWFrVjFQaXFHZjBXVVl6MmVaUmFtV0o5QWthVXhxeExHNG8tUlp0ZTN3?oc=5",
-      "date": "2026-07-10",
-      "source": "Forbes",
-      "category": "google_news"
-    },
-    {
-      "title": "Siemens and Humanoid bring Physical AI to the factory floor: deplo ... - Siemens press",
-      "summary": "Siemens and Humanoid bring Physical AI to the factory floor: deplo ...Siemens press",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPQkI5MmxCeG1oaDBqeXNsR2ZwR3BGQkY5eDh5T3BYelE2Wm82YjFKREJUQmxxNm0zRm5vTURnazVwaEwtQjVDVVZtYjJ2RXVzZ2Eyb25acWVoQVYyaWgwS1FYWTk4Q2JGMWd6Z2c3RG9zQ2RFelhrVk5JZ3BrT2xKN2d5Z2lNNUhXcWtpQnhTOUYtUGZodVhaNE9mbnFVZkZmTmtTLThvVEhoMUhSTk56LWt1S2pJaDBIM25HSGNPMHlnYkpjQ3dRMm1SN2k?oc=5",
-      "date": "2026-04-16",
-      "source": "Siemens press",
-      "category": "google_news"
-    },
-    {
-      "title": "Robots roll out, economies rewire - Barclays Investment Bank",
-      "summary": "Robots roll out, economies rewireBarclays Investment Bank",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4zTmh0MEZ2ZE50LWppUTNMSEhEa2xwdkdsLWNVQ1lHdlNJaWtGOXlRTjlHSFRPa0kzOUN3WmZoaHRPVE44SVRGV3dXSllkMU9oam5ZSkhkaGxXZ1F1VzFYMExJWU9XRmF4X0NxdGVFV2x5MmNPSElNeFJTSUJuZnM?oc=5",
-      "date": "2026-05-19",
-      "source": "Barclays Investment Bank",
-      "category": "google_news"
-    },
-    {
-      "title": "The CEO’s Guide to Physical AI - Boston Consulting Group",
-      "summary": "The CEO’s Guide to Physical AIBoston Consulting Group",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8zTlpQRGEyVFYtZW1kQ0t1TG1zT1g3M2JHMW5vRi1wbU9nQmVtb3BxS1BiZmQ1NnFpWnFNMHFQZ1c4eWo3ZEo0VW1seENIZktXaHBfdUxRdEVYZ2lqUWoyc2tOb1hTU2NfVkQtRDY0Q2Z6RzdXNXc?oc=5",
-      "date": "2026-05-12",
-      "source": "Boston Consulting Group",
-      "category": "google_news"
-    },
-    {
-      "title": "NVIDIA Announces Industry’s First Full-Stack Safety System for Physical AI - Tech Briefs",
-      "summary": "NVIDIA Announces Industry’s First Full-Stack Safety System for Physical AITech Briefs",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQc2tHSUxVbDRVbXJlRXNZY3p3LW1IcVByeWVBSmdyUkswcU1Wc3ZVNGV4VkFaSDhVOW1vNG1WZ0Nab2tqOWpBTXhXQjRXa0Y5R3lHRE5DVUNGM0REbFhvbktSOGNHTTlVLXl6QXdFN2JodnpTdkdGLW5xS3QtbDVsazBHRFpRUDRIZlVUVFBXOGhzb0xSdHpCU29XUVFvX1hIWWhIS2hFZVdIRlNxMWMwSFZFeFNEU0lQelZIM3pkSHIzYUdYUUNaa0ZjS3k?oc=5",
-      "date": "2026-06-23",
-      "source": "Tech Briefs",
       "category": "google_news"
     },
     {
@@ -688,27 +624,11 @@
       "category": "google_news"
     },
     {
-      "title": "Agility Robotics opens new Fremont facility to accelerate physical AI development - Robotics & Automation News",
-      "summary": "Agility Robotics opens new Fremont facility to accelerate physical AI developmentRobotics & Automation News",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPWkhKM1RFcG9xTWVERGlpQUxpQ0hKUS1qREFwRFgtN3hXVW9EVU9vUnBwaExoZUV5Y093ZzA5MlVURklqcDdUWmxnU0oyaG84cHdwc2lRNGxkTFp3RTNXZTYwNmZUTG95aXZLRXZwdU5iaURPcG5FWnJ5S2NCLVB1VUUyRHNaWHBFQmNRRnhnUDJ1MkxoWGZCcUljdm9MdUtwUjI4QmxrR0JuMjlmQ2lkRjlEMEM5ZXhoZnBrdUZicGM1Y1BKbUJBWGxBVzZvMng2ck9lWA?oc=5",
-      "date": "2026-07-17",
-      "source": "Robotics & Automation News",
-      "category": "google_news"
-    },
-    {
-      "title": "How BMW is Using Figure AI Humanoid Robots in Production - Manufacturing Digital",
-      "summary": "How BMW is Using Figure AI Humanoid Robots in ProductionManufacturing Digital",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQU3R0NmgySGFjbTlkY0k1VERWT2NBWjFGUFlyUjBPSUtlWGw4SkpfMUhWVk9MYmdsX1R3a0lsaW5ZR1VQaDRqckdjMGZQV0lIYm1RLUI4V015c2kyZW8yMkdLcFgwZEk2N2xLX1piR1hzVVVaY21kRnVZRG15dW16VmR2NGwwMHUzY04wQ1NQTWZPVWwzNzcyMG1uWlZwaHc?oc=5",
-      "date": "2026-07-02",
-      "source": "Manufacturing Digital",
-      "category": "google_news"
-    },
-    {
-      "title": "Humanoid robots are coming. Which industries are poised for it? - Tech Brew",
-      "summary": "Humanoid robots are coming. Which industries are poised for it?Tech Brew",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8yUHpOaVB4UjFvNGlBZWdQamJObmhFZTQ1Vk9XM0JUZlpQcUtZM0IwOTFUcXVMLU9WVDNwVVNOTGxhMnJrbDhQREZ6d0pFTVBqa1M4VU9ZdzFxYXR6VDZ0UHliTS15dW9nbUo2bXFWdFk?oc=5",
-      "date": "2026-07-07",
-      "source": "Tech Brew",
+      "title": "Humanoid Robots Just Performed Live Surgery For The First Time Ever - Forbes",
+      "summary": "Humanoid Robots Just Performed Live Surgery For The First Time EverForbes",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNU0N3SWJTZ1BqbzlibXVsR2RIOHAwa1F5bmJISkhqR2NzcTIzT2t2S2FmSkxJQjJTdm9JWVIwaWM3d05ieGpFYUxBbzdQMWlQVnFjNnBkbk12M2hhMlA4OFlUZ0I4UWVfMXk0bXIydGM4V1YwT1Zzb2FxNksxYjZYMlFkOVZZUjFjSmtpRWlKd3lDeThlRWFrVjFQaXFHZjBXVVl6MmVaUmFtV0o5QWthVXhxeExHNG8tUlp0ZTN3?oc=5",
+      "date": "2026-07-10",
+      "source": "Forbes",
       "category": "google_news"
     },
     {
@@ -720,11 +640,91 @@
       "category": "google_news"
     },
     {
-      "title": "Humanoid Robots Move Into Real-World Industrial Tasks With Physical AI, Accenture Pilot Shows - Assembly Magazine",
-      "summary": "Humanoid Robots Move Into Real-World Industrial Tasks With Physical AI, Accenture Pilot ShowsAssembly Magazine",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNUW1CNURqTVYwaVNEOGFpN01ndDBhQzJibl9HejhVbG9nZnNWSFFzQjFLenpXVXF4RG0wTXV0ZlFlX3ZrSUx1WlNCaVFzNTEtRjdtMWJQRW1iNHNaeEJYTGFaeXZkX2JPeDRRWTlCTTF3d09sVHdaellobGtUNFlzem5kNUwtVFEtSWdBa3VqdlZPZWhTTnhXQ0ZxbXIxYURvU0ZOc1Y3bUVsbjF2RjM1Yy0zYjc0bi1FSzZoSHBfdWZnTzZCcEFrUjA5b2tsWFRNLWc?oc=5",
-      "date": "2026-04-22",
-      "source": "Assembly Magazine",
+      "title": "Agility Robotics opens new Fremont facility to accelerate physical AI development - Robotics & Automation News",
+      "summary": "Agility Robotics opens new Fremont facility to accelerate physical AI developmentRobotics & Automation News",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPWkhKM1RFcG9xTWVERGlpQUxpQ0hKUS1qREFwRFgtN3hXVW9EVU9vUnBwaExoZUV5Y093ZzA5MlVURklqcDdUWmxnU0oyaG84cHdwc2lRNGxkTFp3RTNXZTYwNmZUTG95aXZLRXZwdU5iaURPcG5FWnJ5S2NCLVB1VUUyRHNaWHBFQmNRRnhnUDJ1MkxoWGZCcUljdm9MdUtwUjI4QmxrR0JuMjlmQ2lkRjlEMEM5ZXhoZnBrdUZicGM1Y1BKbUJBWGxBVzZvMng2ck9lWA?oc=5",
+      "date": "2026-07-17",
+      "source": "Robotics & Automation News",
+      "category": "google_news"
+    },
+    {
+      "title": "Samsung Makes Big Move Into Humanoid Robots— Hires Former Hyundai Robotics Leader to Lead the Charge - Benzinga",
+      "summary": "Samsung Makes Big Move Into Humanoid Robots— Hires Former Hyundai Robotics Leader to Lead the ChargeBenzinga",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPSnlvNEg3c2VSUUg0MVZGNWNESHcwNlpyTVNIbW5TbS02dW9ta05yY0pqSTdxYnA4MVdhT1I3QWNrYU9YY0tBNHdwMHVXQnRqTjFFVm1XVlVOYjBlaHVHeGtONnV3LVYxN3RDc19DN08zQkNZdlliNDF2MUVDZ1dDSWhoTXU2WHNyU05URlN0ejl6VjJTeWJCaFhyVkM1Um1FcEh0RTU2MHJLdENjTTAxcHJNNE1XVmJoNkxpT2k2OUZjVERzN0tmcGZLVmsxNFktTkhfQXdaZmUtWUloc0lBM1lZakk2SHM?oc=5",
+      "date": "2026-07-21",
+      "source": "Benzinga",
+      "category": "google_news"
+    },
+    {
+      "title": "Humanoid Robots Enter the Surgical Robotics Field - ARC Advisory",
+      "summary": "Humanoid Robots Enter the Surgical Robotics FieldARC Advisory",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5UTHpDX3JTYlhXc09SVExFNWdCSFptTnlYYkRUTWtYSTROalR2dkY2TzlhUDJ4Ykd4Ry1fekUxdFYzTzVGMExHLU9yc1Bldi1iSHFDWkRGX2dfQWxyT3o2b2VHVHhmWDlVc2dKMnlIcUdtOVJjQzhiWEFCcXBZZw?oc=5",
+      "date": "2026-07-15",
+      "source": "ARC Advisory",
+      "category": "google_news"
+    },
+    {
+      "title": "Agility Opens New Fremont Facility to Accelerate Physical AI Development - PR Newswire",
+      "summary": "Agility Opens New Fremont Facility to Accelerate Physical AI DevelopmentPR Newswire",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPRmh0X1l0c3hFNTluYktkZjZjamtwekZySFdVMFRSWkFGYUZjUTBBS3RGdjB0WW8zY3puWDB5LUVWRXdsYk5ZMFdNSXNPeVBGVHFQOWk1R0pQUUZydzR0eExxZFRjVEQ5cHU4ZDZwN2h5VzJzN0ZWcWtwUkVwTlUzZmNkbkNndHBXNUFMWVBlZUFvdlJnVVdjVmZxNG5Oa0FjR2hmTHV5X0xqbmNKTmNVQWlwR2xOclVrWjFhbDRHSkRNNlJCd3k0?oc=5",
+      "date": "2026-07-16",
+      "source": "PR Newswire",
+      "category": "google_news"
+    },
+    {
+      "title": "Humanoid robots are coming. Which industries are poised for it? - Tech Brew",
+      "summary": "Humanoid robots are coming. Which industries are poised for it?Tech Brew",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8yUHpOaVB4UjFvNGlBZWdQamJObmhFZTQ1Vk9XM0JUZlpQcUtZM0IwOTFUcXVMLU9WVDNwVVNOTGxhMnJrbDhQREZ6d0pFTVBqa1M4VU9ZdzFxYXR6VDZ0UHliTS15dW9nbUo2bXFWdFk?oc=5",
+      "date": "2026-07-07",
+      "source": "Tech Brew",
+      "category": "google_news"
+    },
+    {
+      "title": "Investors bet humanoid robots will transform industry and homes over the next decade - CNBC",
+      "summary": "Investors bet humanoid robots will transform industry and homes over the next decadeCNBC",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPb3YzODd0aFllSUd5aW1iSWd5Vm5KS0twRzdaYXQza2NlS3pJLVZWTEp1X1hNTFVpSWRKeW9jUnJJbTdKa3J6clZQQUNQdUc3MWdwc2E5MEhscFk4Umw4WjI4cF9TQXplaWllU3IxY0lObTM3NVBMSmdEWndiVHVqeDJPaV_SAYoBQVVfeXFMTXJQcTRqNVQ0X1lROEptVUQxNk8yWjBlT0RBb0puc2F4S3FTRklib29BaHRobWUxVXdLNVdTR0pTWWlwaUFVX2pWSGl5M05mMTEzdDJMS0dCNTRZVGh2ZGhrVGV4YlBZNUM3MG1udThBTndPQVhWMGI4S0xKcFlFV3hfYjZiOUpGWFBR?oc=5",
+      "date": "2026-06-03",
+      "source": "CNBC",
+      "category": "google_news"
+    },
+    {
+      "title": "Samsung Creates Dedicated Robotics Division RX to Accelerate Humanoid Hardware Development - Hypebeast",
+      "summary": "Samsung Creates Dedicated Robotics Division RX to Accelerate Humanoid Hardware DevelopmentHypebeast",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNSHdDMTEwOFpDeUhzdFZWS1NvNmxBZ2hsdUhORHpuYVNHekNJS1pmRVRmZkU4a3JjclRVQlFrak5jVG1pN0pWbGhVS1VoWDNLQ2RFcllsaE4tRGs2NVAzQnZKQjI2dnVLTzBkVE94LUN0dTNnb0V2S205aUlPRXZleEcxLU9lQmg1NkMwRnNPekY?oc=5",
+      "date": "2026-07-22",
+      "source": "Hypebeast",
+      "category": "google_news"
+    },
+    {
+      "title": "10 things you need to know about humanoid robots - Barclays Investment Bank",
+      "summary": "10 things you need to know about humanoid robotsBarclays Investment Bank",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOdExNWlVKcjR5THloRzhmZTZkMkxsOHZkTUF1WTNiRFVjdC00TjBiRjBseUJjMjBCSFFrMGVhakZ1Zm9YU3lLZktVb29JVzFHajZIT1doZ1NkcG1HQ0x1bnU2amE2dW1vN29pcHNDRHlKSU1uMHNiblFqMXJ2aHVMbGktY1U2cklfdHZWd3VWWjdWMHlO?oc=5",
+      "date": "2026-06-18",
+      "source": "Barclays Investment Bank",
+      "category": "google_news"
+    },
+    {
+      "title": "BMW Group Advances Use of Physical AI in Production - Metrology and Quality News",
+      "summary": "BMW Group Advances Use of Physical AI in ProductionMetrology and Quality News",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZC0xMVhyNFUyR2JOZnd0NjV4eTNVMy1tRjNNaXlDdzFVTnoydXNrNlFiM1p4SDB4NzJMd0xEMmhYdkV4QVB6Z3U1Zk40aEg5UEM2a3NYeXBFOVdjV2VpdnhKaFJ4cGdXRWhqdTFpVWxHbkdYelA5RWFlRzF3NlhLbw?oc=5",
+      "date": "2026-07-06",
+      "source": "Metrology and Quality News",
+      "category": "google_news"
+    },
+    {
+      "title": "Agility’s $2.5B Wall Street Pitch Tests Whether Warehouse Humanoids Are Ready for Real Work - ERP Today",
+      "summary": "Agility’s $2.5B Wall Street Pitch Tests Whether Warehouse Humanoids Are Ready for Real WorkERP Today",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1JdWc5b0VxNHRUSVo2Mm1ubEJMY0YzLTk3U2U2ZkxPNXFRV243MVl5V1ZidXplTVR2UllnUy1aTUlIWVZ1YUpGNkJwWndwVV9ZREw1aHBneUxoWmZLR2o4WW44aGItMk1iNDBCY3JZVjR5WFhZbzR0UmFyNW0?oc=5",
+      "date": "2026-07-16",
+      "source": "ERP Today",
+      "category": "google_news"
+    },
+    {
+      "title": "BMW Group advances the use of Physical AI in production with Figure 03 project in Spartanburg - BMW Group",
+      "summary": "BMW Group advances the use of Physical AI in production with Figure 03 project in SpartanburgBMW Group",
+      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPNjJlc1ZtRWxFbUxqY3Z0MElMNUlQRDBfR0pLc0xKSGctRkJEa2tMZGxBSWVCZTdYM3YwZ2l6UTUtb2JvQVZsZkJIeGYtb3lRSndUZEE4Z2g3Nkp1T0R1ZkdST1pHU0JzTkFvYVd0LTFhQVV5UUJrazhMbURPc3dLM0ZmaC1NNG9BQ1pVdUF4X1l5cnQwLTdrYVZiUmNwX1VjY2RRMkFwY2pqdGdET05KcUgzSUZ3NDFBa2JQNWstaEFaRjVwMWk5U1NoTlBXSDVRUWpnWWFHcXdVZkhEMkw2c2lqb253M2dZeGRpY2RlSm9NbURNVEVsS3c1US0xZw?oc=5",
+      "date": "2026-06-25",
+      "source": "BMW Group",
       "category": "google_news"
     }
   ]

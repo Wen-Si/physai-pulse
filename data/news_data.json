@@ -1,8 +1,8 @@
 {
   "meta": {
-    "last_updated": "2026-11-04 03:49:00",
-    "last_updated_utc": "2026-11-04 03:49:00 UTC",
-    "total_sources_collected": 578,
+    "last_updated": "2026-11-05 04:03:50",
+    "last_updated_utc": "2026-11-05 04:03:50 UTC",
+    "total_sources_collected": 511,
     "collector": "RPA Global News Collector v1.0",
     "ai_model": "Zhipu GLM-4.5-Flash"
   },
@@ -12,35 +12,35 @@
         "company": "Figure AI",
         "title": "Figure 03人形机器人实现工厂量产部署",
         "summary": "Figure AI宣布其第三代人形机器人Figure 03已在宝马工厂完成首批部署，实现产线物料搬运与质量检测自动化任务。",
-        "date": "2026-11-04",
+        "date": "2026-11-05",
         "tag": "产品发布"
       },
       {
         "company": "Tesla",
         "title": "Optimus机器人在工厂内实现自主导航与操作",
         "summary": "特斯拉展示了Optimus机器人在超级工厂内自主导航、搬运电池组并执行精密组装任务的最新视频。",
-        "date": "2026-11-04",
+        "date": "2026-11-05",
         "tag": "产品发布"
       },
       {
         "company": "Unitree",
         "title": "宇树科技发布G1 Pro消费级人形机器人",
         "summary": "宇树科技推出G1 Pro人形机器人，配备灵巧手和AI视觉系统，瞄准教育与服务市场。",
-        "date": "2026-11-04",
+        "date": "2026-11-05",
         "tag": "产品发布"
       },
       {
         "company": "Boston Dynamics",
         "title": "Atlas电驱版完成工厂测试并与丰田达成合作",
         "summary": "波士顿动力全新电动版Atlas机器人在丰田工厂完成测试，双方签署战略合作协议。",
-        "date": "2026-11-04",
+        "date": "2026-11-05",
         "tag": "战略合作"
       },
       {
         "company": "Agility Robotics",
         "title": "Digit机器人在亚马逊仓库完成百万次拣选",
         "summary": "Agility Robotics的Digit双足机器人在亚马逊物流中心累计完成超过100万次商品拣选任务。",
-        "date": "2026-11-04",
+        "date": "2026-11-05",
         "tag": "市场扩张"
       }
     ],
@@ -52,7 +52,7 @@
         "valuation": "26亿美元",
         "investors": "微软、OpenAI、NVIDIA、贝佐斯",
         "summary": "Figure AI完成6.75亿美元B轮融资，估值达26亿美元。",
-        "date": "2026-11-04"
+        "date": "2026-11-05"
       },
       {
         "company": "Skild AI",
@@ -61,7 +61,7 @@
         "valuation": "10亿美元",
         "investors": "Lightspeed、Coatue、亚马逊",
         "summary": "Skild AI完成A轮融资，跻身独角兽行列。",
-        "date": "2026-11-04"
+        "date": "2026-11-05"
       },
       {
         "company": "Physical Intelligence",
@@ -70,7 +70,7 @@
         "valuation": "4亿美元",
         "investors": "Khosla Ventures、Lux Capital",
         "summary": "Physical Intelligence完成7000万美元种子轮融资。",
-        "date": "2026-11-04"
+        "date": "2026-11-05"
       },
       {
         "company": "1X Technologies",
@@ -79,7 +79,7 @@
         "valuation": "10亿美元",
         "investors": "OpenAI、EQT Ventures",
         "summary": "1X Technologies完成B轮融资，推进NEO家庭机器人研发。",
-        "date": "2026-11-04"
+        "date": "2026-11-05"
       },
       {
         "company": "Apptronik",
@@ -88,7 +88,7 @@
         "valuation": "16亿美元",
         "investors": "B Capital、Google Ventures",
         "summary": "Apptronik完成A轮融资，加速Apollo机器人商业化。",
-        "date": "2026-11-04"
+        "date": "2026-11-05"
       }
     ],
     "tech": [
@@ -97,35 +97,35 @@
         "summary": "NVIDIA推出Project GR00T，专为人形机器人设计的通用基础模型。",
         "company": "NVIDIA",
         "significance": "首个面向人形机器人的通用基础模型",
-        "date": "2026-11-04"
+        "date": "2026-11-05"
       },
       {
         "title": "Figure AI展示端到端视觉-语言-动作模型",
         "summary": "Figure AI展示了其自研的VLA模型，可直接从摄像头输入生成关节控制指令。",
         "company": "Figure AI",
         "significance": "端到端学习突破，简化机器人控制流水线",
-        "date": "2026-11-04"
+        "date": "2026-11-05"
       },
       {
         "title": "Google DeepMind发布RT-2大规模机器人模型",
         "summary": "RT-2模型将视觉-语言模型与机器人控制结合，实现跨任务泛化能力。",
         "company": "Google DeepMind",
         "significance": "视觉-语言-动作统一架构",
-        "date": "2026-11-04"
+        "date": "2026-11-05"
       },
       {
         "title": "Stanford推出Mobile ALOHA低成本遥操作平台",
         "summary": "斯坦福发布Mobile ALOHA系统，以3.2万美元成本实现双臂移动操作。",
         "company": "Stanford University",
         "significance": "大幅降低具身智能研究成本",
-        "date": "2026-11-04"
+        "date": "2026-11-05"
       },
       {
         "title": "波士顿动力Atlas实现全身动态平衡控制突破",
         "summary": "新版电动Atlas采用强化学习训练的全身控制器，可在不规则地形上跑步跳跃。",
         "company": "Boston Dynamics",
         "significance": "强化学习在人形机器人全身控制中的里程碑应用",
-        "date": "2026-11-04"
+        "date": "2026-11-05"
       }
     ],
     "voices": [
@@ -134,35 +134,35 @@
         "title": "CEO, Tesla",
         "quote": "人形机器人将是有史以来最大的产品，远超汽车业务。",
         "context": "在特斯拉股东大会上讨论Optimus机器人战略",
-        "date": "2026-11-04"
+        "date": "2026-11-05"
       },
       {
         "name": "Jensen Huang",
         "title": "CEO, NVIDIA",
         "quote": "物理AI的ChatGPT时刻即将到来。我们正在构建从芯片到模型的全栈基础设施。",
         "context": "在GTC 2026主题演讲中发布Project GR00T",
-        "date": "2026-11-04"
+        "date": "2026-11-05"
       },
       {
         "name": "Brett Adcock",
         "title": "CEO, Figure AI",
         "quote": "我们的目标是在未来十年内将数十亿台人形机器人部署到全球工厂和家庭中。",
         "context": "在Figure AI B轮融资发布会上",
-        "date": "2026-11-04"
+        "date": "2026-11-05"
       },
       {
         "name": "Sam Altman",
         "title": "CEO, OpenAI",
         "quote": "物理AI是AGI的最后一块拼图。当智能能够操控物理世界时，我们将真正看到AGI的完整形态。",
         "context": "在达沃斯世界经济论坛讨论AI未来",
-        "date": "2026-11-04"
+        "date": "2026-11-05"
       },
       {
         "name": "Demis Hassabis",
         "title": "CEO, Google DeepMind",
         "quote": "具身智能是通向AGI的关键路径之一。机器人需要在真实世界中学习才能获得真正的常识理解能力。",
         "context": "在DeepMind robotics研讨会上",
-        "date": "2026-11-04"
+        "date": "2026-11-05"
       }
     ]
   },
@@ -172,35 +172,35 @@
         "company": "Figure AI",
         "title": "Figure 03 Humanoid Robot Deployed in Factory Mass Production",
         "summary": "Figure AI announced its Figure 03 humanoid robot has been deployed in BMW factories, performing material handling and quality inspection tasks.",
-        "date": "2026-11-04",
+        "date": "2026-11-05",
         "tag": "Product Launch"
       },
       {
         "company": "Tesla",
         "title": "Optimus Robot Achieves Autonomous Navigation in Factory",
         "summary": "Tesla showcased Optimus robots autonomously navigating and performing precision assembly in the Gigafactory.",
-        "date": "2026-11-04",
+        "date": "2026-11-05",
         "tag": "Product Launch"
       },
       {
         "company": "Unitree",
         "title": "Unitree Releases G1 Pro Consumer Humanoid Robot",
         "summary": "Unitree launched the G1 Pro humanoid robot with dexterous hands and AI vision system.",
-        "date": "2026-11-04",
+        "date": "2026-11-05",
         "tag": "Product Launch"
       },
       {
         "company": "Boston Dynamics",
         "title": "Electric Atlas Completes Factory Testing, Partners with Toyota",
         "summary": "Boston Dynamics' new electric Atlas completed testing at Toyota factories. Strategic partnership signed.",
-        "date": "2026-11-04",
+        "date": "2026-11-05",
         "tag": "Partnership"
       },
       {
         "company": "Agility Robotics",
         "title": "Digit Robot Completes One Million Picks at Amazon",
         "summary": "Agility Robotics' Digit robot completed over 1 million product picks at Amazon fulfillment centers.",
-        "date": "2026-11-04",
+        "date": "2026-11-05",
         "tag": "Market Expansion"
       }
     ],
@@ -212,7 +212,7 @@
         "valuation": "$2.6B",
         "investors": "Microsoft, OpenAI, NVIDIA, Bezos",
         "summary": "Figure AI completed $675M Series B at $2.6B valuation.",
-        "date": "2026-11-04"
+        "date": "2026-11-05"
       },
       {
         "company": "Skild AI",
@@ -221,7 +221,7 @@
         "valuation": "$1B",
         "investors": "Lightspeed, Coatue, Amazon",
         "summary": "Skild AI completed Series A, reaching unicorn status.",
-        "date": "2026-11-04"
+        "date": "2026-11-05"
       },
       {
         "company": "Physical Intelligence",
@@ -230,7 +230,7 @@
         "valuation": "$400M",
         "investors": "Khosla Ventures, Lux Capital",
         "summary": "Physical Intelligence completed $70M seed funding.",
-        "date": "2026-11-04"
+        "date": "2026-11-05"
       },
       {
         "company": "1X Technologies",
@@ -239,7 +239,7 @@
         "valuation": "$1B",
         "investors": "OpenAI, EQT Ventures",
         "summary": "1X Technologies completed Series B to advance NEO robot.",
-        "date": "2026-11-04"
+        "date": "2026-11-05"
       },
       {
         "company": "Apptronik",
@@ -248,7 +248,7 @@
         "valuation": "$1.6B",
         "investors": "B Capital, Google Ventures",
         "summary": "Apptronik completed Series A to accelerate Apollo robot deployment.",
-        "date": "2026-11-04"
+        "date": "2026-11-05"
       }
     ],
     "tech": [
@@ -257,35 +257,35 @@
         "summary": "NVIDIA launched Project GR00T, a general foundation model designed for humanoid robots.",
         "company": "NVIDIA",
         "significance": "First general foundation model for humanoid robots",
-        "date": "2026-11-04"
+        "date": "2026-11-05"
       },
       {
         "title": "Figure AI Demonstrates End-to-End Vision-Language-Action Model",
         "summary": "Figure AI demonstrated its VLA model generating joint control commands directly from camera input.",
         "company": "Figure AI",
         "significance": "End-to-end learning breakthrough",
-        "date": "2026-11-04"
+        "date": "2026-11-05"
       },
       {
         "title": "Google DeepMind Releases RT-2 Large-Scale Robot Model",
         "summary": "RT-2 combines vision-language models with robot control for cross-task generalization.",
         "company": "Google DeepMind",
         "significance": "Unified vision-language-action architecture",
-        "date": "2026-11-04"
+        "date": "2026-11-05"
       },
       {
         "title": "Stanford Releases Mobile ALOHA Low-Cost Teleoperation Platform",
         "summary": "Stanford released Mobile ALOHA at $32K cost for dual-arm mobile manipulation.",
         "company": "Stanford University",
         "significance": "Dramatically reducing embodied intelligence research costs",
-        "date": "2026-11-04"
+        "date": "2026-11-05"
       },
       {
         "title": "Boston Dynamics Atlas Achieves Full-Body Dynamic Balance Control",
         "summary": "New electric Atlas uses RL-trained whole-body controller for running and jumping on uneven terrain.",
         "company": "Boston Dynamics",
         "significance": "Milestone in RL application for humanoid control",
-        "date": "2026-11-04"
+        "date": "2026-11-05"
       }
     ],
     "voices": [
@@ -294,61 +294,53 @@
         "title": "CEO, Tesla",
         "quote": "Humanoid robots will be the biggest product ever, far exceeding the car business.",
         "context": "Discussing Optimus at Tesla shareholder meeting",
-        "date": "2026-11-04"
+        "date": "2026-11-05"
       },
       {
         "name": "Jensen Huang",
         "title": "CEO, NVIDIA",
         "quote": "The ChatGPT moment for Physical AI is coming. We are building full-stack infrastructure.",
         "context": "Launching Project GR00T at GTC 2026 keynote",
-        "date": "2026-11-04"
+        "date": "2026-11-05"
       },
       {
         "name": "Brett Adcock",
         "title": "CEO, Figure AI",
         "quote": "Our goal is to deploy billions of humanoid robots in factories and homes worldwide.",
         "context": "At Figure AI Series B funding announcement",
-        "date": "2026-11-04"
+        "date": "2026-11-05"
       },
       {
         "name": "Sam Altman",
         "title": "CEO, OpenAI",
         "quote": "Physical AI is the last piece of the AGI puzzle.",
         "context": "Discussing AI future at Davos World Economic Forum",
-        "date": "2026-11-04"
+        "date": "2026-11-05"
       },
       {
         "name": "Demis Hassabis",
         "title": "CEO, Google DeepMind",
         "quote": "Embodied intelligence is one of the key paths to AGI.",
         "context": "At DeepMind robotics symposium",
-        "date": "2026-11-04"
+        "date": "2026-11-05"
       }
     ]
   },
   "raw_articles": [
     {
-      "title": "THE KOREA INDUSTRY DAILY: ROBOTWORLD 2026 to Spotlight Physical AI and AI-Driven Manufacturing With 402 Exhibitors From 17 Countries - Yahoo Finance",
-      "summary": "THE KOREA INDUSTRY DAILY: ROBOTWORLD 2026 to Spotlight Physical AI and AI-Driven Manufacturing With 402 Exhibitors From 17 CountriesYahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTVdCRXhzX1V1SjlZeWQ3Y3dMWl9LdTN5elVSdy1uWExMVHFHRFFHMEJtSVE1STVMUWVJWldEaUNzZjNmYWdjQzNHTXh0U0U4UmxUTnFLSkxGdVhoZThwTnBYVnREWHd0ZnFINWJxQkZrMWc0R3lpZ1dMYUZmYk4zUkkwMkI1b0xvTHlTdW1PTm5heklNdnhsdU1SWVB6SXYxMGc?oc=5",
+      "title": "South Korea Opens Humanoid Robot Data Factory to Train AI Models on Real-World Tasks - AI Insider",
+      "summary": "South Korea Opens Humanoid Robot Data Factory to Train AI Models on Real-World TasksAI Insider",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNWWl2STdYLTRvNFRTMU5WX0xCa0l5RXZnUjVIOWRyMVBXblZqNFAxb01nOE0wb0h6ZmR6Nk5lb0hValQ0Y1BrQmFQbUh4bmJQSGpCNENadEE0SGUzWnlOZ1lpNnlNV0pZZmVxVHJ0SXF2ejZ5TE5DeEVzNEtFN284OHNwWDJjRExiMlFOdWpISmE0eTZfWDJ3RzNpUnpoTHlKTWhWaDRYT2dwSEVwRDBZNC0tUUYzdXZ1bXFYVzNHMA?oc=5",
       "date": "2026-11-04",
-      "source": "Yahoo Finance",
-      "category": "google_news"
-    },
-    {
-      "title": "Meta & China’s Fourier: A Humanoid Robot for Muse AI Agent - AI Magazine",
-      "summary": "Meta & China’s Fourier: A Humanoid Robot for Muse AI AgentAI Magazine",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQWWFrUm41VGlrbHRQSFU2WUFFS2hMVGNFUEFlTlgwbnVCUlM0WXFkRzR5NzJMM0JoUlBTSkdFSjhKUHdfeHlzb0dOZHBYdGx6MDhtWVhUNlBNOG1jcldTX05GM2JoZVJlSHJCUm1VZ2xtakF2ZmxoSS1RQWRvQTNNTmdRWDVscWNGZUE?oc=5",
-      "date": "2026-11-03",
-      "source": "AI Magazine",
-      "category": "google_news"
-    },
-    {
-      "title": "China Physical AI Roundup: GenRobot AI, RoboScience Secure Funding, Plus Anyverse, Orbbec Expand Deals - AI Insider",
-      "summary": "China Physical AI Roundup: GenRobot AI, RoboScience Secure Funding, Plus Anyverse, Orbbec Expand DealsAI Insider",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQR0oySElvZ1hxWjZUaUh5aTJnbWIwR1RiWTVNYzRkUXRnN1Vjd2tYS2dlUXZZVmhRd3ZJRkRJOXNidEdibC03S3o5TzZaaUc3c2xseXA3bXJaZDltRk9ZbEpzcjBuQi0yb0YyMHk3OVd1X0ZyTnVqZmd6aTRGMUdTalkxc1pHZV9TSF9nZE12RWZjVTh3N1RlaHdLankwam5uRGYtbHV2OVlzakUxY00tOGdmS2hBYWpnQjhNd1lRTVJmejN0MEpDLXgwOVN2enZ6SkE?oc=5",
-      "date": "2026-11-03",
       "source": "AI Insider",
+      "category": "google_news"
+    },
+    {
+      "title": "Korea opens its first AI humanoid data factory - EurekAlert!",
+      "summary": "Korea opens its first AI humanoid data factoryEurekAlert!",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5DRWp6aGZwR09ZMG52bXk2ZWlDTUdnX3N4Y1Y1NzNORkFVVThvelpGWnV0SW02VzlVcVFjOU1mZ2NNZWk1bWt5Ry0zZGwxd2Z2WFFmWUM0RFhsbXds?oc=5",
+      "date": "2026-11-04",
+      "source": "EurekAlert!",
       "category": "google_news"
     },
     {
@@ -360,11 +352,11 @@
       "category": "google_news"
     },
     {
-      "title": "Why this German robotics founder rejects military contracts - DW.com",
-      "summary": "Why this German robotics founder rejects military contractsDW.com",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOSmNkQlJfYjcxSzBJS1huUWUtWUlWa3lzVWdlUEpGUExKY25uRWFNTU9rUDV6SC1MSlVrNEN2SGtSU3NaanF0UXFXQW1fYWF0cGVuTXRpX3VlWjFSRzZIZUtoZ0lacHB1YmdpRE1lRGFQRmVPR25zdmZEcmtNNkJNQk9FV0lkT1dUWENoS0VqZGc2dU1BQmlaTU85M2hQQQ?oc=5",
+      "title": "Meta & China’s Fourier: A Humanoid Robot for Muse AI Agent - AI Magazine",
+      "summary": "Meta & China’s Fourier: A Humanoid Robot for Muse AI AgentAI Magazine",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQWWFrUm41VGlrbHRQSFU2WUFFS2hMVGNFUEFlTlgwbnVCUlM0WXFkRzR5NzJMM0JoUlBTSkdFSjhKUHdfeHlzb0dOZHBYdGx6MDhtWVhUNlBNOG1jcldTX05GM2JoZVJlSHJCUm1VZ2xtakF2ZmxoSS1RQWRvQTNNTmdRWDVscWNGZUE?oc=5",
       "date": "2026-11-03",
-      "source": "DW.com",
+      "source": "AI Magazine",
       "category": "google_news"
     },
     {
@@ -384,11 +376,19 @@
       "category": "google_news"
     },
     {
-      "title": "The only U.S. pure-play humanoid robotics stock begins trading this week - TradingView",
-      "summary": "The only U.S. pure-play humanoid robotics stock begins trading this weekTradingView",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQWVpIWHMzMENfT3MxUUlqOWFtOWM4Vi1rMXVFQlYwMk1PalA3M3ptQ1g2ak14a0xVRmFQSGVfLXlwSGEyaU5aQWUtWFROR092QXN6d3pVNll3MFlXX2oyUGt0b3lfWTAxQk9nc2VIRlFnc0dmeFctVHBhX0Jyc1FKNWxPcGFSekxiT0RyTjhXNS1hVDl6UzZ0a1ZHaVVQUDhjYkF0cFN6ekpYdlFQNVdmSjBra2xKeG1qTTlITk9QbTVKM1dqb3lBVVc3RVQtbjQ?oc=5",
-      "date": "2026-11-03",
-      "source": "TradingView",
+      "title": "Human-Robot Dance Marks AI's Creative Partner Role - 조선일보",
+      "summary": "Human-Robot Dance Marks AI's Creative Partner Role조선일보",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVEFtZEx2TFlOV0xlSkl3OF9JNGdKN2pESDFxbVZBUjV2UWpHLVJycmFaWno2Zi1mZ2lUSkdlSXlsb0VaTFgzcFI1RFB3M3Q1M2c2SDZHcm9lTk1iRVVPRzJwYTRrOUV6aHpWTnJuWU1ubm4tT292WjJXaE9ReDdHMzYxYlEzM1V0aUh4Sw?oc=5",
+      "date": "2026-11-05",
+      "source": "조선일보",
+      "category": "google_news"
+    },
+    {
+      "title": "Realbotix Renames Its Echo Humanoid Platform as Series 1 - Unite.AI",
+      "summary": "Realbotix Renames Its Echo Humanoid Platform as Series 1Unite.AI",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNkQ5U0MyV0FoT1ZRc0s4enl1ZVYyYi1mOHBmRkpEdFItRnd4YjJZd2JZYUdYLUg1eWtVczRDYi1ZT0FWbml3S09vaGVfS1FzeEhTNnlKSlJFYmlaaEV2aC01Q1BEcjBLZlUzQ1NLeGpBa1hUbXVrbFp1dVZncUdEQzd0M3Y?oc=5",
+      "date": "2026-11-04",
+      "source": "Unite.AI",
       "category": "google_news"
     },
     {
@@ -400,19 +400,51 @@
       "category": "google_news"
     },
     {
+      "title": "The only U.S. pure-play humanoid robotics stock begins trading this week - TradingView",
+      "summary": "The only U.S. pure-play humanoid robotics stock begins trading this weekTradingView",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQWVpIWHMzMENfT3MxUUlqOWFtOWM4Vi1rMXVFQlYwMk1PalA3M3ptQ1g2ak14a0xVRmFQSGVfLXlwSGEyaU5aQWUtWFROR092QXN6d3pVNll3MFlXX2oyUGt0b3lfWTAxQk9nc2VIRlFnc0dmeFctVHBhX0Jyc1FKNWxPcGFSekxiT0RyTjhXNS1hVDl6UzZ0a1ZHaVVQUDhjYkF0cFN6ekpYdlFQNVdmSjBra2xKeG1qTTlITk9QbTVKM1dqb3lBVVc3RVQtbjQ?oc=5",
+      "date": "2026-11-03",
+      "source": "TradingView",
+      "category": "google_news"
+    },
+    {
+      "title": "Matrix Robotics MATRIX-3 makes its debut at Hong Kong Fintech Week, completing its first real-world retail scenario demonstration in Hong Kong | Corporate - EQS News",
+      "summary": "Matrix Robotics MATRIX-3 makes its debut at Hong Kong Fintech Week, completing its first real-world retail scenario demonstration in Hong Kong | CorporateEQS News",
+      "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxNWmdrX19UYVhhTDdkcFNwb0JnaXZJMnBDcktpbUZoQmNNWklKWktyWlpKeHBBdGRuV3BYN3FLUGZKLTQ3WGRvN3BTbVlBYm85Y2RlVGJXMjBHSzE3R09qQ1NGSGV0UXVpcWZwSHlaRGViSEkzR1RVTUstdXNzWlkxOVluWWNtWVI4V20tOVFUZk5kR19iOWo4NVl4aGlWZzQ5MlpPOXJjRXNCYm1FMV96Yk5ldlBHdW9jc1g5T1VIYmxDVG5WQVRZNnZ5dGpOQjBjUnN2Z0V6T0VBbS1tTVBsTjVoY2xCTzN1M0c2YzdhcTV5NUVKOHNiTTVldnRLZmFXRnl4aWxKZ05xZE1zS3Joam5JTUtxa0EwMzVZZmVtZTBxSWJhX1QtTUZDUzZyQ1NTNFlBakh0RGpfb3llbEcyYkY0MUJQTE0?oc=5",
+      "date": "2026-11-05",
+      "source": "EQS News",
+      "category": "google_news"
+    },
+    {
+      "title": "From human experience to robot action: LiberAI launches Liber-0 world-action model - Robotics & Automation News",
+      "summary": "From human experience to robot action: LiberAI launches Liber-0 world-action modelRobotics & Automation News",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNc0xUZElnYWIxTUo3SXJseHgyU0E3T3ppb0RtVFkzeVpTbUpzTkxXVl9veUJpRHRXNmpsUzIzUGRZWkNWTVIxWmlvaXl3OHAzRW1hZ19DeVEtOS03Y25iTm03UWstWVRXQ1doVzlkSnpzZ1drT1hhTk5aOUlFcHVBXzVoR1dESHhKdHRzVVFIWGdLMUJuQWlnT3RidnZFUkhxMjczdkVCY01JcG9kd3J4aWh2aGRDaGpCeVBsU3g5OXpBOW14UkZaX0dKMWpkZVNGVmhLcg?oc=5",
+      "date": "2026-11-04",
+      "source": "Robotics & Automation News",
+      "category": "google_news"
+    },
+    {
+      "title": "ROBOTWORLD 2026 to Focus on Physical AI and AI-Driven Manufacturing - KuCoin",
+      "summary": "ROBOTWORLD 2026 to Focus on Physical AI and AI-Driven ManufacturingKuCoin",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNVDhTX1ZFRnVoLWJHUElna3J2aUtfX1I5cWJ2Z1ZHNXhwV0RTbmpuZjhyc3owdkg2Y3R4c3hkbkN5akdjd296eWY3WHBpYnBWYlVfWWp6bkhYUHNHWFh2TE5hZ0hRNzBHdHY1TXVuTjBCX3NRZzZ1am5uSGFOdU9nUDRYV3Z4cmI2bFRqNWdtUWwtSHdTcGdhYVM4aWZIQzkxbzRN?oc=5",
+      "date": "2026-11-04",
+      "source": "KuCoin",
+      "category": "google_news"
+    },
+    {
+      "title": "Robotics: The next big frontier in AI - J.P. Morgan",
+      "summary": "Robotics: The next big frontier in AIJ.P. Morgan",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPM2tvdFZqYXIxaTNTQUVhblVka2FreGtOcXRBRks4Z2hZZ1RrbFNwN2g3M0FhLUVsaFFKbjhSOThmVS1EWmRVeFoyb0VmMTBJSm0tRG5aRE1pd0dBbmYyRktaUlFIajJubDNLS3UxaC1Ic1dabkFiY1M2X1kxdFNFUDMxaVJDd1Nvck91c2VMVTBWa291X1dKM1NGd0FqQ2d2TEVvLXRlY085cUxDQ3hBRzBhd1F2d1BuUjV3azNjbG9aUjIwWEE?oc=5",
+      "date": "2026-08-14",
+      "source": "J.P. Morgan",
+      "category": "google_news"
+    },
+    {
       "title": "Wearable Tech Reads Muscle Moves to Train Humanoid Robots - Thomasnet",
       "summary": "Wearable Tech Reads Muscle Moves to Train Humanoid RobotsThomasnet",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQSV9oU1ZPSXp1b21ER1UycTN1T2F0ZGU5T09rRVN2ZUlkWUlzeHRmdUJCSkJzU05WVjFJMGNveVE4Z25kSEU3Z3lYWVVXRzNlMFdnUTUtYnpfTF9oS09YN0tvTFh1ZEF0bjdZVG91cVFkSFJ3RVRTRTd0d2FPcmg4ak56ZGJqZw?oc=5",
       "date": "2026-11-02",
       "source": "Thomasnet",
-      "category": "google_news"
-    },
-    {
-      "title": "Robotics: The next big frontier in AI - J.P. Morgan Private Bank",
-      "summary": "Robotics: The next big frontier in AIJ.P. Morgan Private Bank",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPM2tvdFZqYXIxaTNTQUVhblVka2FreGtOcXRBRks4Z2hZZ1RrbFNwN2g3M0FhLUVsaFFKbjhSOThmVS1EWmRVeFoyb0VmMTBJSm0tRG5aRE1pd0dBbmYyRktaUlFIajJubDNLS3UxaC1Ic1dabkFiY1M2X1kxdFNFUDMxaVJDd1Nvck91c2VMVTBWa291X1dKM1NGd0FqQ2d2TEVvLXRlY085cUxDQ3hBRzBhd1F2d1BuUjV3azNjbG9aUjIwWEE?oc=5",
-      "date": "2026-08-14",
-      "source": "J.P. Morgan Private Bank",
       "category": "google_news"
     },
     {
@@ -424,11 +456,35 @@
       "category": "google_news"
     },
     {
+      "title": "XPeng Introduces GroundingPI, an Open-Source Visual Perception Model for Physical AI - AI Insider",
+      "summary": "XPeng Introduces GroundingPI, an Open-Source Visual Perception Model for Physical AIAI Insider",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOYWtJbEMyZk84Nm10aEtxODZkRmZ6TV9KZTBiYnNwSENoai1MZ3QzNkZOSHI0TVduOHNqYUFPbUtxdTVjTmZnejJTNTJhSWhIN09MLXN0TzhqSzlxc3NXTG4yc3RlVGttOExVVHpkWlNkOUJoYU5tLXd1MGFZS1lWWExyNFFlS3lqaW9CNHYzQkt4dFp0QzdPN0ZvWjEtbkRPWVJwVWJad3FVVjhXQzFGb1k0T20tM09yR1JUNlFB?oc=5",
+      "date": "2026-11-04",
+      "source": "AI Insider",
+      "category": "google_news"
+    },
+    {
       "title": "How Hidden Triggers Can Make Robots Ignore Their Own Safety Rules - IEEE Spectrum",
       "summary": "How Hidden Triggers Can Make Robots Ignore Their Own Safety RulesIEEE Spectrum",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE44VW03UDFYTmx2dDZHMjRod2o0NDdLTTZlRHQzVHhjVC1QQmQwZ1V1bjJhenJJRGRvUldMV1FkbHhxZndEUFh3aHU5WVBJQ1NhbkRmam43bkd0M1JEVUZSTVN1Q0tLeXNUa3NxUTdaVGJKdw?oc=5",
       "date": "2026-09-16",
       "source": "IEEE Spectrum",
+      "category": "google_news"
+    },
+    {
+      "title": "To implement future humanoid robots, it is necessary to have the intelligence of vision, manipulati.. - 매일경제",
+      "summary": "To implement future humanoid robots, it is necessary to have the intelligence of vision, manipulati..매일경제",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBERVJhQzN4MWxUS0JTNkpsSWlCU08yRVZfLTY3YXE4UTMwd0lZM3BDaGkxV2RNMFBma0JsOGlHSE0yMVpraWlfZE96V2hUYktxWXc?oc=5",
+      "date": "2026-11-02",
+      "source": "매일경제",
+      "category": "google_news"
+    },
+    {
+      "title": "China Physical AI Roundup: GenRobot AI, RoboScience Secure Funding, Plus Anyverse, Orbbec Expand Deals - AI Insider",
+      "summary": "China Physical AI Roundup: GenRobot AI, RoboScience Secure Funding, Plus Anyverse, Orbbec Expand DealsAI Insider",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQR0oySElvZ1hxWjZUaUh5aTJnbWIwR1RiWTVNYzRkUXRnN1Vjd2tYS2dlUXZZVmhRd3ZJRkRJOXNidEdibC03S3o5TzZaaUc3c2xseXA3bXJaZDltRk9ZbEpzcjBuQi0yb0YyMHk3OVd1X0ZyTnVqZmd6aTRGMUdTalkxc1pHZV9TSF9nZE12RWZjVTh3N1RlaHdLankwam5uRGYtbHV2OVlzakUxY00tOGdmS2hBYWpnQjhNd1lRTVJmejN0MEpDLXgwOVN2enZ6SkE?oc=5",
+      "date": "2026-11-03",
+      "source": "AI Insider",
       "category": "google_news"
     },
     {
@@ -440,11 +496,11 @@
       "category": "google_news"
     },
     {
-      "title": "How Physical AI Is Reshaping Robotics Today—and What Comes Next - Boston Consulting Group",
-      "summary": "How Physical AI Is Reshaping Robotics Today—and What Comes NextBoston Consulting Group",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPaFJ2VllFVjZlU1Jka2NxZzFPanRJS1VES3dEbW91aEwtdWkwRmp4cG9hTzhOQVFUM0tLblVFNWMzRlQ5VC1VMVYwZGlOenpmR3J3b1hJSkd1R1N2NnFBV05OY0dYdDl5NW1hYXlQT3lxRHRZclhaS251VWREUDk0cTZleVRVTEQz?oc=5",
-      "date": "2026-04-14",
-      "source": "Boston Consulting Group",
+      "title": "10 things you need to know about humanoid robots - Barclays Investment Bank",
+      "summary": "10 things you need to know about humanoid robotsBarclays Investment Bank",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOdExNWlVKcjR5THloRzhmZTZkMkxsOHZkTUF1WTNiRFVjdC00TjBiRjBseUJjMjBCSFFrMGVhakZ1Zm9YU3lLZktVb29JVzFHajZIT1doZ1NkcG1HQ0x1bnU2amE2dW1vN29pcHNDRHlKSU1uMHNiblFqMXJ2aHVMbGktY1U2cklfdHZWd3VWWjdWMHlO?oc=5",
+      "date": "2026-06-18",
+      "source": "Barclays Investment Bank",
       "category": "google_news"
     },
     {
@@ -453,6 +509,14 @@
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOR3ltRlJNUm9IOVlrMTZGcUhlZmV6ZVNVWU1vMFRySTJCSDBTQ09ya0JsajM5REY5SWhLcmFHVE1zSk5zNm1MdEFkVlBhSHJNY0pLajducWJ6X3owVVJSVy02Ylg1M2MzanZQOURUd09JbTl4eEJmdXd4UUltbjgyZDZuN3N6MkpXcjg0VGxYb1JNS3dfRjZpQ0lpREs3b0NwUU1F?oc=5",
       "date": "2026-09-03",
       "source": "KraneShares",
+      "category": "google_news"
+    },
+    {
+      "title": "How Physical AI Is Reshaping Robotics Today—and What Comes Next - Boston Consulting Group",
+      "summary": "How Physical AI Is Reshaping Robotics Today—and What Comes NextBoston Consulting Group",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPaFJ2VllFVjZlU1Jka2NxZzFPanRJS1VES3dEbW91aEwtdWkwRmp4cG9hTzhOQVFUM0tLblVFNWMzRlQ5VC1VMVYwZGlOenpmR3J3b1hJSkd1R1N2NnFBV05OY0dYdDl5NW1hYXlQT3lxRHRZclhaS251VWREUDk0cTZleVRVTEQz?oc=5",
+      "date": "2026-04-14",
+      "source": "Boston Consulting Group",
       "category": "google_news"
     },
     {
@@ -488,35 +552,11 @@
       "category": "google_news"
     },
     {
-      "title": "Humanoid Global Highlights Portfolio Company Formic’s US$50 Million Raise, Led by Mercato Partners, to Advance Physical AI Across American Manufacturing - The Manila Times",
-      "summary": "Humanoid Global Highlights Portfolio Company Formic’s US$50 Million Raise, Led by Mercato Partners, to Advance Physical AI Across American ManufacturingThe Manila Times",
-      "link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxQQzkya1NfNF9iR0VQZ2RXeEhVQkYwQzdpVUtyNjZwWjJCOUozZFpwMEJKOERXOTdHUHlRSnlQb3g1dV8ycUV5a0dISVdsbnBIOXJ3R0dVSDlsNDJVSEVianhKYUN2dVZRRUxvTjJnNTJBeGx3bXdMdURtR09Nc1poRkZyTTFqdWJId1c4NVRPMXR3Ul9Gci1VUDRYeXlzWlBHSU1JdkpodnRfUV8xUkZ1clhBWGFRWk9HLUdfdmNJUVhkM1FNWTVSWHAxXy02bGlCdkJxS2paNmFZdmJtNDE1bVpPUm5NOWN1Qnh0V3ZFOEJ1bmNrcEZHSGk2UWZuamFldlZKSVkyYS1jRTlkaE1XT1o3TFRxY0VYTlY1Z25HZjhMem9RTXg4Uk9DY2xxTjNKR2kyUlItSTI5Tm9CLTZyYUNJbHDSAcoCQVVfeXFMTzE5bXhWaFNrb294cFJvTTVGNGlvdWNQNkdySTBQZzZTdFVuSnFhcElGY3Vvb0U5U2lBaG9NYUFrQ1BFa2I5WlJjaWFTRVpic05RTzR4SG1qMzU4S0phUUpMUUZpQk1wMG8yT25lT0lTTzBFRzRETldPdXFVazdYVkljZTEzOHZPNm5PUjdlQVJuSHRfU0c1THNGRUt2VkZEaVhnaTkzUlFWblZmb19tMV92eF92c3dJWF9CMzVTMVdKWmFWdnY5NWdlNnNuYjNUNWl4ZnI1TGMzYXRNRnM1SWp6ZFo0V3NJd3N4eXRBenZIVWRNUTdYRW1aekFOQWI1THhVaGpMNl8yQWhtV2dNNjVqTi1TeUVIcmVGMUJGLWNXSmFINXBnOEpZN1g0bjA0eGFyWFk3Zng0cFVmRUtsZDNlRWJRVjVzZlNn?oc=5",
-      "date": "2026-11-02",
-      "source": "The Manila Times",
-      "category": "google_news"
-    },
-    {
-      "title": "10 things you need to know about humanoid robots - Barclays Investment Bank",
-      "summary": "10 things you need to know about humanoid robotsBarclays Investment Bank",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOdExNWlVKcjR5THloRzhmZTZkMkxsOHZkTUF1WTNiRFVjdC00TjBiRjBseUJjMjBCSFFrMGVhakZ1Zm9YU3lLZktVb29JVzFHajZIT1doZ1NkcG1HQ0x1bnU2amE2dW1vN29pcHNDRHlKSU1uMHNiblFqMXJ2aHVMbGktY1U2cklfdHZWd3VWWjdWMHlO?oc=5",
-      "date": "2026-06-18",
-      "source": "Barclays Investment Bank",
-      "category": "google_news"
-    },
-    {
-      "title": "Why the next decade of physical AI must be human-centric - World Economic Forum",
-      "summary": "Why the next decade of physical AI must be human-centricWorld Economic Forum",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUF9PUXVNUWRJY0FBMmFTNEVqMHNZYVdFMmlkLXpmVXQwcDlkUUtxRmY0V2xvZkoyMk9pME0zbG5VUGVXVkpzV3JwNnVwTEQ5MTN1S2hvYjlxbzRRZjB6SUpKOER3V1Jma0l3VWx1VE1FM2tTQTZVMkIzSzY3eXZSNGxDVXRzdVN3VXFaRHlEckY4R0VRUmNKSUZsMGdkbUVldG9SZWhSRWRrTHptQWQ4bGZ3?oc=5",
-      "date": "2026-05-27",
-      "source": "World Economic Forum",
-      "category": "google_news"
-    },
-    {
-      "title": "Meta and China's Fourier Build 'Max' Humanoid Robot in Three Months as Muse's Physical Form - BigGo Finance",
-      "summary": "Meta and China's Fourier Build 'Max' Humanoid Robot in Three Months as Muse's Physical FormBigGo Finance",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE02UERKU0dWLTdRaHdHNEZydWlCVHBtTFdGZ0dUMExVUkFRNG8ySENmQ1pLZ1dNckMwSXd6eVduMl9iZElEOXBKejFCOTZyZkNWcEpJYjg2bXlEa3BFMy1GaUxSSHViVEFsNWpBU2xNZnpHd3lYN3c?oc=5",
-      "date": "2026-10-31",
-      "source": "BigGo Finance",
+      "title": "THE KOREA INDUSTRY DAILY: ROBOTWORLD 2026 to Spotlight Physical AI and AI-Driven Manufacturing With 402 Exhibitors From 17 Countries - PR Newswire",
+      "summary": "THE KOREA INDUSTRY DAILY: ROBOTWORLD 2026 to Spotlight Physical AI and AI-Driven Manufacturing With 402 Exhibitors From 17 CountriesPR Newswire",
+      "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQTmpUd2dVNVBwLVNmcmdaT0JVNTZtVmJXSnFEbVJ2Wk9wQS1sWVo3MlM1cEQ5WVJIYVhfbkdQeGtVSFhkbWg5SE41VnEzcHNmWEpZd3Bsd2lqcFk4NTlVVS16VWV6WHFMaGFGME9xWV9xT2R1RWdTS2dFUWlaTkhVd1VTQ1FQUGoxM1AzcFJRekxJNFJ2MEZBdzBQRlNJREFMNEZMMWFZMFZtMWk0Vmp2aERHd3VITm96bFVVVzMyQmx3TkZUb3RNcXRyYVcyZjREX1RuVHBtNE44S0hYMUhDWE9QLW9lS05lZTA3eW1DeUdEX3kyekk5YzNwNUM3VkJuY1ZCNDd6bi1CYzhPZnVqenlYYTVydw?oc=5",
+      "date": "2026-11-04",
+      "source": "PR Newswire",
       "category": "google_news"
     },
     {
@@ -552,11 +592,11 @@
       "category": "google_news"
     },
     {
-      "title": "XPENG IRON humanoid robot draws record physical AI funding - AI News",
-      "summary": "XPENG IRON humanoid robot draws record physical AI fundingAI News",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRDlPcVpnVmxUdnFTaHFDTEVlT0Y0Y3huZGRzY0xubWlWTFZfRTZMY0JmN0xWTzdSNDRPa2Y0aDh6bXpsTDlYS0tyb1otOHJrSDJlTDlONld4TDg3VVhSeEVyeTl4Y3BySHBOVUI5ajVhejNZWmI3MDk0YVBwWnFwNnR3dlNNM1BNdVUtdjhBNkk2RjZsS051WlYtNVJGVDZoSUt0ZWJ5QmVncEpm?oc=5",
-      "date": "2026-08-24",
-      "source": "AI News",
+      "title": "Gemini Robotics 2 brings whole body intelligence to robots - Google DeepMind",
+      "summary": "Gemini Robotics 2 brings whole body intelligence to robotsGoogle DeepMind",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPdEljb2ZqM3EyZWp0SHNWT3NaaWJEQWpITjMtSGQyaHYwd1d0dndlZ2luNl9RaERRbUR4cmlZcDIzUmJDUDNHZ0tDTWNKd0FjTFBFaUc5STF2QkZKbEVJMHhDZzFxOWFpWHZCU2hwTHljQWhNTmZpSlpoN0lTZkwySW9qaTVodnB6Nm9XNjM2MkJEUQ?oc=5",
+      "date": "2026-07-30",
+      "source": "Google DeepMind",
       "category": "google_news"
     },
     {
@@ -565,14 +605,6 @@
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5tclFmNWFqd29fMG05TkllZjB0QXRaVUotS2xjV3Q0QlBMWU84RDRjQmxnc2U0WGlIeklpVV9ZTTVXNGhxazhBM2lfeXhaTVVCdzVxUVpVdHlYRGVNTEcwS1E5N25KSG5VcnNDbzFTaw?oc=5",
       "date": "2026-03-03",
       "source": "Time Magazine",
-      "category": "google_news"
-    },
-    {
-      "title": "Gemini Robotics 2 brings whole body intelligence to robots - Google DeepMind",
-      "summary": "Gemini Robotics 2 brings whole body intelligence to robotsGoogle DeepMind",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPdEljb2ZqM3EyZWp0SHNWT3NaaWJEQWpITjMtSGQyaHYwd1d0dndlZ2luNl9RaERRbUR4cmlZcDIzUmJDUDNHZ0tDTWNKd0FjTFBFaUc5STF2QkZKbEVJMHhDZzFxOWFpWHZCU2hwTHljQWhNTmZpSlpoN0lTZkwySW9qaTVodnB6Nm9XNjM2MkJEUQ?oc=5",
-      "date": "2026-07-30",
-      "source": "Google DeepMind",
       "category": "google_news"
     },
     {
@@ -608,6 +640,22 @@
       "category": "google_news"
     },
     {
+      "title": "XPENG IRON humanoid robot draws record physical AI funding - AI News",
+      "summary": "XPENG IRON humanoid robot draws record physical AI fundingAI News",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRDlPcVpnVmxUdnFTaHFDTEVlT0Y0Y3huZGRzY0xubWlWTFZfRTZMY0JmN0xWTzdSNDRPa2Y0aDh6bXpsTDlYS0tyb1otOHJrSDJlTDlONld4TDg3VVhSeEVyeTl4Y3BySHBOVUI5ajVhejNZWmI3MDk0YVBwWnFwNnR3dlNNM1BNdVUtdjhBNkk2RjZsS051WlYtNVJGVDZoSUt0ZWJ5QmVncEpm?oc=5",
+      "date": "2026-08-24",
+      "source": "AI News",
+      "category": "google_news"
+    },
+    {
+      "title": "Siemens Humanoid Robot Breakthrough Highlights Physical AI And Valuation Debate - Yahoo Finance",
+      "summary": "Siemens Humanoid Robot Breakthrough Highlights Physical AI And Valuation DebateYahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSnVxWDhORlVJMUlVVG0zM200ZmFQTW0zZG1WZTNHbG1RNzVrQ3cwRTFJRlJpRFotYXZXanc3bVFkaHRpX2s3SGtvV0p6eUo3ZUc1MGJyX2kzeElBU1FHTS1DSC10UmRkVlIxUFEwOUNNVGdnLVQ0VlRfaTJVRVVfbVRoXzEyajY5WTBXRkRTVmZRc1ZaMnVVY1c4Tk1lNWFZdEZBZUF5RmRVR0FpZFFrZg?oc=5",
+      "date": "2026-04-23",
+      "source": "Yahoo Finance",
+      "category": "google_news"
+    },
+    {
       "title": "XPeng Expands Physical AI Ambitions With Flying Cars And Humanoid Robots - Yahoo Finance",
       "summary": "XPeng Expands Physical AI Ambitions With Flying Cars And Humanoid RobotsYahoo Finance",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSWFiQVNtTkVlSllHM3BhanhNc2cxU1pyUE5vcGJhd01RV1N4LXZGTjFzY0FWSHo1U1ZtTWlSQlJkbGpvSXdNdkVvd1RidklQN18weWFta3J6UXpoYTdsaTg2SVZHVUlEVy1aNWhPbFFJYktvRERCTmhEYm81elZPaWZaUWRUcXVGXzJfSXV6N2Y4dHJTM0psYjNFeG5yVWVGUWc?oc=5",
@@ -637,14 +685,6 @@
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNd2c0TGx4SkprOEUtWmNORmZuNk56VThPSFctSjQxajliNUs3a2RONm9jQkVmS1FpMWI2YkF2aHZJR0gtODJGa3hIWjdBcmpWMng1TVF2bnJzaWIwQ1NLdW9nVWhqSWwyR2pIMWJ5U1ZUNGdaQkxTclpMMEtuRC1qSFF1Qnc5SnNaMzJfd3lBQ2hJQ3ExUXd4T19CeHVMWE5sYWFCQWRsUUIzeVl4?oc=5",
       "date": "2026-07-13",
       "source": "Renesas",
-      "category": "google_news"
-    },
-    {
-      "title": "China accelerates race to develop smarter humanoid robots - News of Bahrain",
-      "summary": "China accelerates race to develop smarter humanoid robotsNews of Bahrain",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNWjVpUWJ6Mlhra1ZpcVh0TUFvNHNQRS1NMElqT21QUm5jSGplWVQxXzNUOXppc2w2ZGJVRElndUxHcE1iZWUzR2RraVp6NmdpOFVRdG9lZWlmNGhxSlFGVDRYamdzb1pwaVlTaV80VmU3QktMY3NZN2kzbVNhdjFfdndVX0ZsYjlhSk54MXNxd09jbkVlbUhhQXdfQ1FZbU0?oc=5",
-      "date": "2026-11-02",
-      "source": "News of Bahrain",
       "category": "google_news"
     },
     {
@@ -685,46 +725,6 @@
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPeFhnd0JQYURTSEljVzNGRnJKWjRtR3lsLXYzN1lDd1RJNjdMUGZjNjA3NWJ0Znk5dUxJWlBuTnR4eG10NHJ3SkFuZjZ6YncxYVZLNUx4Z3h5TFA1eVVNUGIxeVV3V2dCZXVsMTJWQ2xxVzJ2eW1wY0ZFT0N1UHdZSTl4aW1iREphOW84?oc=5",
       "date": "2026-01-21",
       "source": "Microsoft",
-      "category": "google_news"
-    },
-    {
-      "title": "XPENG Showcases New Flagship SUVs and Physical AI Ecosystem in Dubai as MEA Expansion Accelerates - PR Newswire UK",
-      "summary": "XPENG Showcases New Flagship SUVs and Physical AI Ecosystem in Dubai as MEA Expansion AcceleratesPR Newswire UK",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOWUhTUE9iNmZvajN3MjVaQ2tjV2lHbVctRjJtS0t5aFZjRTdjUG85RVg0UGRXNUlvbGNQMWZPWEo1Q2k0bUFhOHVwQzlwak4zSkd0ck1GWU50cTJMelV3RVJ6R0hvanpKQUxGWVBWeGN1V3RKbmM0OXJYaWRvRDJ6S1UwOFZRa0pfV21GRkc3bkVSb2xvMlpMU21MR0g5ZUVfWHNyT2JzQzZZRXRGb2Y4cWYtdVI3M2xOWmFzbG9aNVNjX1owTlA3SUFzc2hfdXJObWkzSjRnQjVWQlc3SmRhLXlyd01Dc2M1V2Q4?oc=5",
-      "date": "2026-11-03",
-      "source": "PR Newswire UK",
-      "category": "google_news"
-    },
-    {
-      "title": "First humanoid robot introduced in Plant Leipzig - BMW Group",
-      "summary": "First humanoid robot introduced in Plant LeipzigBMW Group",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPRGtGUmpNa01zSDFsUmFmQXk0bEU0MU1OVE5QSlFndGFMaFlmWDRKVS1fUThqQmNGX3pjaEhTa1JycXF0TW9sQkZwWnNDSDdsRkJsd042YU1yRDZ0YU5iRHpQWDRSZ04tczI2aXloYUZrMWtid0ttY0FVMWhzRnpnQkFn?oc=5",
-      "date": "2026-03-09",
-      "source": "BMW Group",
-      "category": "google_news"
-    },
-    {
-      "title": "Physical AI: robotics are poised to revolutionise business - Financial Times",
-      "summary": "Physical AI: robotics are poised to revolutionise businessFinancial Times",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA1YTRLNWtVYl9ZVG5DbDJLUzN3SlpzVEVMR2plYVRFeDdSMld0bWhrWEc3QU01WGV4Z0VXSWxlQmlpX1lpUmxMLXltQUt5V05DalJteHBZMDdCSUVqOUpQLUctcnpiU2VQa0taY3lzNGk?oc=5",
-      "date": "2026-01-20",
-      "source": "Financial Times",
-      "category": "google_news"
-    },
-    {
-      "title": "How Physical AI and 6G power the next wave of robotics - Qualcomm",
-      "summary": "How Physical AI and 6G power the next wave of roboticsQualcomm",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1EZ1laR2E2ZXlDODJ1ZHJpNUE5ODVmU05xZFJ2S0hKdzJuVlpJRGhEYkpSVnE4SUdpTFN3RDZWWTFMaEVhSlMweFZmTHo1TzV0a0VOcDNTV1hhVklIamNyTHB3NDJra1NGR3JTQnRHLVBNWWc?oc=5",
-      "date": "2026-02-24",
-      "source": "Qualcomm",
-      "category": "google_news"
-    },
-    {
-      "title": "National Robotics Week — Latest Physical AI Research, Breakthroughs and Resources - NVIDIA Blog",
-      "summary": "National Robotics Week — Latest Physical AI Research, Breakthroughs and ResourcesNVIDIA Blog",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE96SXR2cGI3dHBReDYxbUw5bWZlUnhSTHY0Z3ZoYXlYVGRId0ZUQ0hrdWtNQlRtQTVEVlNmME1CZ0QtNWN5SHNqb0F4eHUtbVExcG5wNWZoaUdDcUNsRlFWeklSREFDNEl0UGc?oc=5",
-      "date": "2026-04-10",
-      "source": "NVIDIA Blog",
       "category": "google_news"
     }
   ]
